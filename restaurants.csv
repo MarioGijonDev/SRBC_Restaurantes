@@ -1,0 +1,1001 @@
+idItem,name,tags,price,rating,numRatings,address,phone
+1,Vinería San Telmo,"Tapas Bars, Wine Bars",€€,4.0,120,"Paseo de Catalina de Ribera, 4 41004 Seville Spain",+34954410600
+2,Milonguitas,"Steakhouses, Argentine, Burgers",€€,4.5,45,"Calle Tomas de Ibarra, 2 41001 Seville Spain",+34954210954
+3,Catalina,Tapas Bars,€€,4.0,51,"Paseo de Catalina de Ribera, 4 41004 Seville Spain",+34954412412
+4,Eslava,"Tapas Bars, Spanish",€€,4.5,276,"Calle Eslava, 3 41002 Seville Spain",+34954906568
+5,El Rinconcillo,"Spanish, Tapas Bars, Andalusian",€€,4.0,153,"Calle Gerona, 40 41003 Seville Spain",+34954223183
+6,La Azotea,"Tapas Bars, Modern European",€€,4.5,101,"Calle Jesús del Gran Poder, 31 41001 Seville Spain",+34955116748
+7,El Rincón de Beirut,"Tapas Bars, Halal, Lebanese",€€,4.5,87,"Calle San Fernando, 21 41002 Seville Spain",+34955118707
+8,Taberna Coloniales,"Spanish, Tapas/Small Plates, Tapas Bars",€,4.0,133,"Plaza Cristo de Burgos, 19 41003 Seville Spain",+34954501137
+9,Mamarracha,"Spanish, Tapas Bars",€€,4.5,86,"Calle Hernando Colón, 1 41004 Seville Spain",+34955123911
+10,Perro Viejo,"Tapas Bars, Signature Cuisine",€€,4.0,104,"Calle Arguijo, 3 41003 Seville Spain",+34955440030
+11,Ovejas Negras,Tapas Bars,€€,4.5,135,"Calle Hernando Colón, 8 41004 Seville Spain",+34955123811
+12,La Azotea,"Spanish, Tapas Bars",€€,4.0,71,"Calle Mateos Gago, 8 41004 Seville Spain",+34954215878
+13,Ostería L'Oca Giuliva,Italian,€€,4.5,122,"Calle Mateos Gago, 9 41004 Seville Spain",+34954214030
+14,Viriato,"Sports Bars, Gastropubs, Breakfast & Brunch",€,4.5,39,"Calle Madre Maria de la  Purísima, 7 41003 Seville Spain",+34954228803
+15,El Pasaje Bar,"Tapas Bars, Cocktail Bars",€€,4.5,76,"Pasaje de Vila, 8-10 41004 Seville Spain",+34619294540
+16,El Pintón,"Tapas Bars, Spanish",€€,4.0,91,"Calle Francos, 42 41004 Seville Spain",+34955075153
+17,Alwadi,"Middle Eastern, Arabic, Moroccan",empty,4.5,54,"Calle Jimios, 25-32 41001 Seville Spain",+34955122619
+18,La Bartola,"Tapas Bars, Mediterranean",€€,4.5,104,"Calle San José, 24 41004 Seville Spain",+34955271978
+19,La Azotea,Spanish,€€,4.5,65,"Calle Zaragoza, 5C 41001 Seville Spain",+34671496579
+20,Maquila,"Gastropubs, Tapas Bars, Beer Bar",€€,4.5,46,"Calle Delgado, 4 41002 Seville Spain",+34955182320
+21,Edición Limitada Espacio Gastronómico,"Signature Cuisine, Tapas Bars, Modern European",€€,4.5,30,"Calle Conde de Barajas, 20 41002 Seville Spain",+34955513463
+22,The Merchant,"Sports Bars, Burgers",€,4.5,55,"Calle Canalejas, 12 41001 Seville Spain",+34954223228
+23,El Traga,Tapas Bars,€€,4.5,38,"Calle Águilas, 6 41004 Seville Spain",+34854521494
+24,Casablanca,"Spanish, Mediterranean",€€,4.5,35,"Calle Adolfo Rodríguez Jurado, 12 41001 Seville Spain",+34954224114
+25,El Colmado,"Tapas Bars, Breakfast & Brunch",€,4.5,65,"Plaza de Ponce de León, 5 41003 Seville Spain",+34633238589
+26,La Brunilda,Tapas Bars,€€,4.5,184,"Calle Galera, 5 41001 Seville Spain",+34954220481
+27,Tradevo De Mar,"Tapas Bars, Modern European, Gastropubs",€€€,4.5,22,"Calle Juan de Mata Carriazo, 6 41018 Seville Spain",+34854806173
+28,La Cantina Mexicana,Mexican,€,4.5,51,"Calle Francos, 14 41004 Seville Spain",+34954218975
+29,Casa del Tesorero,"Italian, Mediterranean, Spanish",€€,4.5,32,"Calle Santander, 1 41001 Seville Spain",+34954503921
+30,El Comercio,"Tapas Bars, Breakfast & Brunch",€,4.5,82,"Calle Lineros, 9 41004 Seville Spain",+34954221877
+31,Estrella,"Spanish, Tapas/Small Plates",€€,4.0,44,"Calle Estrella, 3 41004 Seville Spain",+34954219325
+32,La Piemontesa,"Pizza, Italian",€€,4.5,41,"Calle Marqués de Paradas, 36 41001 Seville Spain",+34954219381
+33,Don Juan de Alemanes,"Tapas Bars, Signature Cuisine",€€,4.0,46,"Calle Alemanes, 7 41001 Seville Spain",+34954563232
+34,El Pasaje,"Spanish, Tapas Bars",€€,5.0,10,"Calle Ximénez de Enciso, 33 41004 Seville Spain",+34954217778
+35,Bar Agustin & Company,Tapas Bars,€€,4.5,23,"Calle Álvarez Quintero, 3 41004 Seville Spain",+34954228181
+36,La Gallina Bianca,Italian,€€,4.5,27,"Calle Santa Maria la Blanca, 15 41004 Seville Spain",+34954988267
+37,Alfalfa,Tapas Bars,€€,4.5,102,"Calle Candilejo, 1 41004 Seville Spain",+34954222344
+38,Pelayo,"Spanish, Tapas Bars",€€,4.0,38,"Calle Placentines, 25 41004 Seville Spain",+34954227000
+39,Filo,Sandwiches,empty,5.0,21,"Calle Hernando Colón, 19 41004 Seville Spain",+34955186892
+40,San Marco,Italian,€€,4.0,62,"Calle Mesón del Moro, 6 41004 Seville Spain",+34954564390
+41,Al Medina,"Moroccan, Arabic",€€,4.5,41,"Calle San Roque, 13 41001 Seville Spain",+34954215451
+42,Hard Rock Cafe,"Bars, American (Traditional)",€€€,4.5,20,"Calle San Fernando, 3 41004 Seville Spain",+34954220126
+43,Virgin Coffee,"Coffee & Tea, Cafeteria",€,4.5,41,"Calle Regina, 1 Local 6 41003 Seville Spain",+34675942995
+44,HOB - House of Burger,"Burgers, American (Traditional)",€€,4.5,59,"Calle Correduría, 38 41002 Seville Spain",+34955443934
+45,Gusto,"Spanish, Mediterranean, Breakfast & Brunch",€€,4.0,62,"Calle Alemanes, 23 41004 Seville Spain",+34954500923
+46,La Sacristía,Tapas Bars,€,4.0,35,"Calle Mateos Gago, 18 41004 Seville Spain",+34954219207
+47,Bodeguita Antonio Romero II,"Spanish, Tapas Bars",€€,4.5,24,"Calle Gamazo, 16 41001 Seville Spain",+34954210585
+48,Burguett,"Burgers, Tapas/Small Plates",€€,4.0,62,"Calle Albareda, 24 41001 Seville Spain",+34954564244
+49,Habanita,"Mediterranean, Vegan, Gluten-Free",€€,4.0,45,"Calle Callejon Golfo, 3 41004 Seville Spain",+34954220202
+50,Bodega Santa Cruz Las Columnas,"Tapas Bars, Wine Bars",€,4.0,164,"Calle de Rodrigo Caro, 1 41004 Seville Spain",+34954218618
+51,Arte y Sabor,"Tapas Bars, Mediterranean",€€,4.0,66,"Alameda de Hércules, 85 41002 Seville Spain",+34954372897
+52,Tradevo Centro,Tapas Bars,€€,4.5,14,"Calle Cuesta del Rosario, 15 41004 Seville Spain",+34854807424
+53,La Carbonería,"Spanish, Tapas Bars",€€,4.0,105,"Calle Céspedes, 21 41004 Seville Spain",+34954229945
+54,Torres y García,"Signature Cuisine, Spanish",€€,4.0,36,"Calle Harinas, 2-4 41001 Seville Spain",+34955546385
+55,Bodeguita Romero,"Spanish, Tapas Bars",€,4.5,75,"Calle Harinas, 10 41001 Seville Spain",+34954229556
+56,Fez,"Moroccan, Halal, Arabic",€€,4.5,19,"Calle San Esteban, 27 41003 Seville Spain",+34954537779
+57,Al Aljibe,"Spanish, Tapas/Small Plates",€€,4.0,45,"Alameda de Hércules, 76 41002 Seville Spain",+34954900591
+58,La Catedral,"Spanish, Tapas Bars",€€,4.0,28,"Calle Mateos Gago, 5 41004 Seville Spain",+34954212174
+59,Bar Patanchón,"Tapas Bars, Spanish, Mediterranean",€€,4.0,27,"Calle Mateos Gago, 13 41004 Seville Spain",+34954224708
+60,El 3 de Oro,"Seafood, Spanish",€€,3.5,33,"Calle Santa María la Blanca, 34 41004 Seville Spain",+34954422759
+61,La Bodega de Alfalfa,"Tapas Bars, Pubs",€,4.0,43,"Calle Alfalfa, 4 41004 Seville Spain",+34954227362
+62,Mega,"Spanish, Burgers, Tapas Bars",€,4.0,99,"Calle Macasta, 27 41003 Seville Spain",+34955281695
+63,Giralda,"Spanish, Tapas Bars",€,4.0,37,"Calle Mateos Gago, 1 41004 Seville Spain",+34954228250
+64,Trattoría Filomena,"Mediterranean, Burgers, American (Traditional)",€,4.0,27,"Calle Padre Méndez Casariego, 24 41003 Seville Spain",+34954538864
+65,Tanto Monta,"Halal, Barbeque",€€,4.5,16,"Calle Reyes Catolicos, 11 41001 Seville Spain",+34854704478
+66,Génova,"Tapas Bars, Spanish",€,3.5,63,"Avenida de la Constitución, 10 41001 Seville Spain",+34954227436
+67,Sal Gorda,"Tapas Bars, Bars, Spanish",€€,4.5,62,"Calle Alcaiceria de la Loza, 13 41004 Seville Spain",+34955385972
+68,Becerrita,"Spanish, Mediterranean",€€€,4.0,24,"Calle Recaredo, 9 41003 Seville Spain",+34954412057
+69,Cristina Bistró,"Spanish, Andalusian",€€,5.0,20,"Calle San Fernando, 19 41004 Seville Spain",+34606416458
+70,Catalina,"Spanish, Tapas Bars, Mediterranean",€€,4.0,19,"Plaza del Padre Jerónimo de Córdoba, 12 41003 Seville Spain",+34954563687
+71,La Chunga,Spanish,€€,4.0,47,"Calle Arjona, 13 41001 Seville Spain",+34600341399
+72,Restaurante Alcázar,"Halal, Moroccan, Arabic",€,4.5,14,"Calle Tomás de Ibarra, 6 41001 Seville Spain",+34622405350
+73,Al Solito Posto,"Italian, Gluten-Free",€€,4.0,41,"Alameda de Hércules, 16 41002 Seville Spain",+34954908985
+74,Casa Paco,"Spanish, Tapas Bars",€€,4.5,28,"Calle de Luis Huidrobo, 23 41007 Seville Spain",+34954584725
+75,La Jerónima,"Cafeteria, Bookstores, Beer Bar",€,4.5,21,"Calle Jerónimo Hernández, 14-16 41003 Seville Spain",
+76,Taberna Coloniales,Tapas Bars,€,4.0,70,"Calle de Fernández y González, 38 41001 Seville Spain",+34954229381
+77,Oriza,"Spanish, Tapas Bars",€€,4.0,24,"Calle San Fernando, 41 41004 Seville Spain",+34954227254
+78,Abantal,"Spanish, Mediterranean",€€,4.0,21,"Calle Alcalde Jose de la Bandera, 7 41003 Seville Spain",+34954540000
+79,Panrallao,"Tapas Bars, Modern European",€,4.5,67,"Calle Divino Redentor, 5 41005 Seville Spain",+34954026796
+80,Pepe Hillo,"Tapas Bars, Spanish",€€,4.0,28,"Calle Adriano, 24 41001 Seville Spain",+34954564145
+81,El Viajero Sedentario,"Cafeteria, Bookstores",€,4.5,23,"Alameda de Hércules, 77 41002 Seville Spain",+34677535512
+82,La Paella Sevilla,"Arroceria / Paella, Food Delivery Services, Tapas Bars",empty,5.0,11,"Calle San Eloy, 2 41001 Seville Spain",+34954008067
+83,Uno de Delicias,"Tapas Bars, Spanish, Mediterranean",€€,4.0,29,"Paseo de las Delicias, 1 41001 Seville Spain",+34954500500
+84,Zelai,"Tapas Bars, Modern European",€€,4.0,26,"Calle Albareda, 22 41001 Seville Spain",+34954229992
+85,La Mafia Se Sienta a la Mesa,Italian,€€,4.5,16,"Plaza del Duque de la Victoria, 11 41002 Seville Spain",+34954564729
+86,You Sushi,"Japanese, Sushi Bars",€,4.0,19,"Calle Santa María La Blanca, 23 41004 Seville Spain",+34954522282
+87,Mr. Cake,"Desserts, Cafeteria",€,5.0,15,"Calle Santa Bárbara, 12 41002 Seville Spain",+34693705445
+88,Fridays,"American (Traditional), Burgers",€€,4.0,44,"Calle Luis de Morales, 3 41005 Seville Spain",+34636591275
+89,Fargo,"Vegetarian, Vegan",€€,4.5,32,"Calle Pérez Galdós, 20 41004 Seville Spain",+34955276552
+90,Postiguillo,"Spanish, Tapas/Small Plates, Tapas Bars",€€,4.0,29,"Calle Dos de Mayo, 4 41001 Seville Spain",+34954565162
+91,Velouté,"Tapas Bars, Spanish",€€,4.0,19,"Avenida de la Buhaira, 23 41018 Seville Spain",+34954047979
+92,Milk Away,"Juice Bars & Smoothies, Salad, Delis",empty,5.0,11,"Calle Pérez Galdós, 32 41004 Seville Spain",+34600213747
+93,Enrique Becerra,"Spanish, Tapas Bars",€€,4.0,25,"Calle Gamazo, 2 41001 Seville Spain",+34954213049
+94,Az-Zait,"Spanish, Signature Cuisine",€€€,4.0,30,"Plaza San Lorenzo, 1 41002 Seville Spain",+34954906475
+95,Plato Plató,"Spanish, Tapas Bars",€€,4.5,35,"Calle Progreso, 27 41013 Seville Spain",+34955384450
+96,Malambos,"Steakhouses, Argentine",€€,4.5,13,"Calle Doctor Pedro Vallina, 11 41008 Seville Spain",+34954532770
+97,Torch Coffee Roasters,"Cafeteria, Coffee & Tea, Bakeries",€,4.5,70,"Avenida Paseo de las Delicias, 3 41001 Seville Spain",
+98,ConTenedor,"Spanish, Modern European",€€,4.5,101,"Calle San Luis, 50 41003 Seville Spain",+34954916333
+99,Antojo,Tapas Bars,€€,4.0,78,"Calle Calatrava, 44 41002 Seville Spain",+34955425337
+100,Las Teresas,"Spanish, Bars",€€,3.5,39,"Calle Sta. Teresa, 2 41004 Seville Spain",+34954213069
+101,Modesto,"Spanish, Seafood, Tapas Bars",€€,3.5,27,"Calle Cano y Cueto, 5 41004 Seville Spain",+34954416811
+102,Maccheroni,Italian,€€€,4.0,23,"Calle García de Vinuesa, 26 41001 Seville Spain",+34954501015
+103,Taberna Álvaro Peregil,"Spanish, Tabernas",€,4.0,34,"Calle Mateos Gago, 20 41004 Seville Spain",+34954218966
+104,Cinco Jotas,Tapas Bars,empty,4.0,15,"Calle Castelar, 1 41001 Seville Spain",+34954210763
+105,Cocome,"Salad, Juice Bars & Smoothies",empty,5.0,13,"Calle Tarifa, 4 41002 Seville Spain",+34955111566
+106,Casa Ricardo,Tapas Bars,€€,4.0,30,"Calle Hernán Cortés, 2 41002 Seville Spain",+34954389751
+107,Taberna Águilas,"Tapas Bars, Spanish, Beer Bar",€,4.5,19,"Calle Águilas, 10 41004 Seville Spain",+34630046324
+108,El Cairo,Arroceria / Paella,€€,4.0,25,"Calle Reyes Católicos, 13 41001 Seville Spain",+34954213089
+109,Carmela,"Tapas Bars, Spanish",€,4.0,35,"Calle Santa María la Blanca, 6 41004 Seville Spain",+34954537945
+110,Casa Tomate,"Tapas/Small Plates, Andalusian, Tapas Bars",€€,3.5,26,"Calle Mateos Gagos, 24 41004 Seville Spain",+34954220421
+111,Dúo Tapas,"Tapas Bars, Tapas/Small Plates, Spanish",€,4.0,89,"Calle Calatrava, 10 41002 Seville Spain",+34955238572
+112,Tablao El Arenal,"Tablao Flamenco, Tapas Bars",€€€,4.0,30,"Calle Rodo, 7 41001 Seville Spain",+34954216492
+113,Taj Mahal,"Indian, Halal, Vegan",€€,4.0,33,"Calle Juan Antonio Cavestany, 12 41003 Seville Spain",+34954420952
+114,Bodeguita Antonio Romero,"Tapas/Small Plates, Spanish",€€,4.0,26,"Calle Antonia Díaz, 19 41001 Seville Spain",+34954223939
+115,Nazca,"Japanese, Peruvian, Asian Fusion",€€,4.5,62,"Calle Baños, 32 41002 Seville Spain",+34955226728
+116,No Lugar,"Mediterranean, Tapas Bars",€€,4.5,47,"Calle de Trajano, 16 41002 Seville Spain",+34656656074
+117,La Quinta,Brasseries,€€€,4.5,9,"Plaza Padre Jeronimo de Cordoba, 11 41003 Seville Spain",+34954600016
+118,Casa Morales,Tapas Bars,€,4.0,45,"Calle García de Vinuesa, 11 41001 Seville Spain",+34954221242
+119,Europa,"Tapas Bars, Spanish, Tapas/Small Plates",€€,3.5,26,"Calle Siete Revueltas, 35 41004 Seville Spain",+34954217908
+120,Yebra,"Spanish, Tapas Bars",€€,4.5,39,"Calle Medalla Milagrosa, 3 41009 Seville Spain",+34954351007
+121,Casa La Viuda,"Spanish, Tapas Bars",€,4.5,13,"Calle Albareda, 2 41001 Seville Spain",+34954215420
+122,Taberna del Alabardero,Spanish,€€,4.0,21,"Calle Zaragoza, 20 41001 Seville Spain",+34954502721
+123,Artefacto,"Bars, Cafeteria, Tapas Bars",€,4.5,14,"Calle Peral, 1 41002 Seville Spain",+34669656526
+124,Raíces,"Signature Cuisine, Peruvian, Cocktail Bars",€€,4.5,29,"Calle Juan de Zoyas, 5 41018 Seville Spain",+34695855623
+125,Robles Laredo,Cafeteria,€€,4.0,17,"Calle Sierpes, 90 41004 Seville Spain",+34954293232
+126,Casa Robles,"Tapas Bars, Spanish",€€€,3.5,45,"Calle Alvarez Quintero, 58 41004 Seville Spain",+34954213150
+127,Mesones del Serranito,Spanish,€€,3.5,27,"Calle Antonia Díaz, 11 41001 Seville Spain",+34954211243
+128,La Azotea,"Cheese Shops, Wine Bars, Gastropubs",€€,4.0,27,"Calle Conde de Barajas, 12 41002 Seville Spain",+34955116748
+129,La Monumental,"Tapas Bars, Spanish",€€,4.0,15,"Calle Diego Angulo Íñiguez, 9 41018 Seville Spain",+34954423385
+130,Orsini & Angelo,Italian,€€,4.0,23,"Calle Luchana, 4 41004 Seville Spain",+34954216164
+131,Depikofino,"Signature Cuisine, Tapas Bars, Gastropubs",€€,4.0,10,"Calle Eduardo Dato, 29 41710 Seville Spain",+34954532957
+132,El Baratillo,"Spanish, Tapas Bars, Andalusian",€€,3.5,31,"Calle Adriano, 20 41001 Seville Spain",+34954219143
+133,Abades Triana Restaurante,"Spanish, Andalusian",€€€,3.5,29,"Calle Betis, 69 41010 Seville Spain",+34954286459
+134,Takumi,"Japanese, Sushi Bars",€€,4.5,24,"Plaza de la Encarnación, s/n 41003 Seville Spain",+34955135160
+135,La Pulchra,Spanish,€,4.0,43,"Calle José Luis de Casso, 32 41005 Seville Spain",+34954574954
+136,Ajoblanco,Tapas Bars,€€,4.5,11,"Calle Alhóndiga, 19 41003 Seville Spain",+34954229320
+137,Corral del Agua,"Spanish, Tapas/Small Plates",€€,4.0,10,"Calle del Agua, 6 41004 Seville Spain",+34954224841
+138,Casa Cuesta,"Spanish, Tapas Bars",€€,4.0,36,"Calle Castilla, 1 41010 Seville Spain",+34954333335
+139,Quilombo,Tapas Bars,€,4.5,14,"Calle Peris Mencheta, 6 41002 Seville Spain",+34666647487
+140,Victoria 8,"Spanish, Tapas Bars",€€,4.5,12,"Calle Victoria, 8 41010 Seville Spain",+34954343230
+141,Mizüshi,"Japanese, Sushi Bars, Vegan",€,4.0,15,"Calle José Luis Luque, 8 41003 Seville Spain",+34954560391
+142,Freskura,"Gluten-Free, Ice Cream & Frozen Yogurt",€,4.5,35,"Calle Vulcano, 4 41002 Seville Spain",+34954373089
+143,Milonga's,"Argentine, Steakhouses",€€,5.0,5,Calle Luis de Morales 32 41018 Seville Spain,+34954410667
+144,El Gallinero de Sandra,"Spanish, Mediterranean",€€€,4.0,13,"Calle Esperanza Elena Caro, 2 41002 Seville Spain",+34954909931
+145,Tata Pila,"Tapas Bars, French",€€,4.0,15,"Calle Julio César, 14 41001 Seville Spain",+34954870862
+146,Taberna El Panduro,Tapas Bars,€€,4.5,28,"Calle Baños, 3 41002 Seville Spain",+34954870732
+147,Umami,Tapas/Small Plates,empty,4.5,10,"Calle Hernando Colón, 10 41004 Seville Spain",+34954502118
+148,TGB Campana,"Burgers, Fast Food",€,4.0,26,"Calle Martín Villa, 4 41003 Seville Spain",+34954871980
+149,Tommy Mel's,"American (Traditional), Burgers",€€,3.5,28,"Calle Rico Cejudo, s/n 41005 Seville Spain",+34954981261
+150,Sushi Chaki,"Japanese, Sushi Bars",€€,4.0,33,"Calle Virgen de las Aguas Santas, 8 41011 Seville Spain",+34954279995
+151,Flores Gourmet,"Tapas Bars, Delicatessen",€€,4.0,20,"Calle San Pablo, 24 41001 Seville Spain",+34954216160
+152,Doña Elvira,"Salad, Arroceria / Paella, Tapas Bars",€€,3.5,29,"Plaza Doña Elvira, 6 41004 Seville Spain",+34954215483
+153,Peko Peko,"Gastropubs, Tapas Bars",empty,4.0,22,"Calle Santa María la Blanca, 20 41004 Seville Spain",+34692174965
+154,la Escaloná,"Breakfast & Brunch, Tapas Bars",empty,4.0,17,"Plaza de la Alfalfa, 12 41004 Seville Spain",+34955648266
+155,Mercado Lonja del Barranco,Food Court,€€,3.5,49,"Calle Arjona, s/n 41001 Seville Spain",+34954220495
+156,Freiduría Puerta de la Carne,"Fish & Chips, Tapas Bars, Vegan",€€,4.0,12,"Puerta de la Carne, 2 41004 Seville Spain",+34954411159
+157,Zarabanda,Mediterranean,€€,4.0,23,"Calle Padre Tarin, 6 41002 Seville Spain",+34954903080
+158,La Sra Pop,"Breakfast & Brunch, Pubs, Coffee & Tea",€,4.0,30,"Calle Amor de Dios, 55 41002 Seville Spain",+34675871586
+159,Ciudad Dong Hai,Chinese,€,4.0,13,"Calle Aponte, 4 41002 Seville Spain",+34954381358
+160,Zarandaja,Tapas Bars,€€,4.5,21,"Avenida de la Buhaira, 14 41018 Seville Spain",+34955715744
+161,Gallo Rojo,"Cafeteria, Art Galleries, Bars",€,4.5,11,"Calle Viriato, 9 41002 Seville Spain",
+162,Universal People Bar,Tapas Bars,empty,4.5,8,"Calle Blanca de los Ríos, 1 41004 Seville Spain",+34954224770
+163,Mirador San Fernando,Spanish,€€,4.5,17,"Calle San Fernando, 23 41004 Seville Spain",+34651800601
+164,Ostrería & Sushi de Mercado,"Seafood, Sushi Bars, Japanese",€€,4.0,21,"Mercado de Triana Calle Puesto, 61 41010 Seville Spain",+34954338285
+165,Las Golondrinas,"Tapas/Small Plates, Tapas Bars",€,4.0,55,"Calle Antillano Campos, 26 41010 Seville Spain",+34954331626
+166,La Corona,"Tapas Bars, Mediterranean, Bars",€,4.5,37,"Calle Faustino Álvarez, 1 41002 Seville Spain",+34669842708
+167,Bodega Góngora,Tapas/Small Plates,€€,3.5,18,"Calle Albareda, 5 41001 Seville Spain",+34954221119
+168,El Paladar,"Mediterranean, Tapas Bars",€,4.0,24,"Calle Lumbreras, 14 41002 Seville Spain",+34661613651
+169,El Nómada,"Italian, Pizza",€€,4.0,25,"Calle San Luis, 2 41003 Seville Spain",+34954221961
+170,Ostia Antica Ristorante,"Italian, Mediterranean, Pizza",€€,4.5,12,"Calle Alvarez Quintero, 45 41004 Seville Spain",+34954560000
+171,Mateos Bar,"Tapas Bars, Spanish",empty,4.0,13,"Calle Mateos Gago, 2 41004 Seville Spain",+34954218806
+172,Dúplex,Tapas Bars,€,3.5,24,"Calle Don Remondo, 1 41004 Seville Spain",+34954212741
+173,Coreano Moon,Korean,€,4.0,27,"Avenida de Menéndez Pelayo, 18 41004 Seville Spain",+34664417518
+174,Bodeguita Fabiola,"Spanish, Pubs, Tapas Bars",€,4.5,11,"Calle Fabiola, 7 41004 Seville Spain",+34655491390
+175,Blanca Paloma,Tapas Bars,€€,4.5,36,"Calle San Jacinto, 49 41010 Seville Spain",+34954333640
+176,Antigüedades Bar,"Spanish, Tapas Bars",€,3.0,22,"Calle Argote de Molina, 40 41004 Seville Spain",+34954565127
+177,Cupcakes & Go,"Desserts, Bakeries, Cafeteria",€€,4.0,16,"Puerta del Osario, 13 41003 Seville Spain",+34954418696
+178,Vega 10,"Signature Cuisine, Tapas Bars",€€,4.5,32,"Calle Rosario Vega, 10 41010 Seville Spain",+34955237748
+179,Puratasca,Spanish,€€,4.0,37,"Calle Numancia, 5 41010 Seville Spain",+34954331621
+180,La Créme de la Créme,"Desserts, Cafeteria, Ice Cream & Frozen Yogurt",€,3.5,22,"Calle Regina, 1 41003 Seville Spain",+34955671341
+181,Bodega Mateo Ruiz,Tapas Bars,€,5.0,13,"Calle Palacios Malaver, 33 41003 Seville Spain",+34954387754
+182,Santa Marta,"Spanish, Tapas Bars",€,4.0,30,"Calle Angostillo, 2 41003 Seville Spain",+34954210194
+183,La Taberna,"Tapas Bars, Tabernas",€,4.0,35,"Calle Gamazo, 6 41001 Seville Spain",+34954221128
+184,Tijuana,Mexican,€,4.0,43,"Calle Asunción, 67 41011 Seville Spain",+34954458526
+185,El Arepazo,Latin American,€,4.5,39,"Calle Otoño, 1 41009 Seville Spain",+34955211587
+186,Tradevo,"Seafood, Tabernas",€€,4.0,15,"Plaza Pintor Amalio García del Moral, 2 41005 Seville Spain",+34854521554
+187,Cachet,"Pubs, Cafeteria, Gastropubs",€€,4.0,28,"Avenida la Buhaira, 10 41018 Seville Spain",+34954420975
+188,Iguanas Ranas,"Mexican, Latin American",€€,3.5,26,"Calle Santo Tomás, 7 41004 Seville Spain",+34954044552
+189,Rafael Ruíz,"Spanish, Tapas Bars, Breakfast & Brunch",€,4.0,10,"Calle Amador de los Ríos, 46 41003 Seville Spain",+34954415760
+190,YAN Sushi Bar,"Sushi Bars, Japanese",€€,4.0,10,"Plaza Padre Jeronimo de Cordoba, 2 41003 Seville Spain",+34954043460
+191,Gigante Bar,"Desserts, Tapas Bars, Cocktail Bars",€,4.0,27,"Alameda de Hércules, 17 41002 Seville Spain",+34955294529
+192,Almazen,Cafeteria,empty,4.5,10,"Calle San Esteban, 15 41003 Seville Spain",+34955359764
+193,Las Golondrinas,"Spanish, Tapas Bars",€,4.0,28,"Calle Pagés del Corro, 76 41010 Seville Spain",+34954338235
+194,Milonga's,"Argentine, Spanish",€€€,4.0,12,"Calle Campo de los Mártires, 1 41018 Seville Spain",+34954411177
+195,Tribeca,"Spanish, Tapas Bars",€€€€,4.5,7,"Calle Chaves Nogales, 3 41018 Seville Spain",+34954426000
+196,Montolivo Italian Grill,"Steakhouses, Italian",€€,4.0,27,"Calle Santo Domingo de la Calzada, 13 41018 Seville Spain",+34954531710
+197,Messala Gastrobar,"Tapas Bars, Mediterranean",€€,4.0,13,"Calle Albareda, 22 41001 Seville Spain",+34954226852
+198,Burro,"Spanish, Bars",empty,5.0,7,"Calle Luis Montoto, 112 41018 Seville Spain",+34954869595
+199,VIPS,"Burgers, American (Traditional)",€€,3.5,14,"Calle Enramadilla, 1A 41018 Seville Spain",+34638579932
+200,Organic's,"Breakfast & Brunch, Vegan",€,4.5,8,"Calle José de Velilla, 3 41001 Seville Spain",+34954914085
+201,No Kitchen,"Spanish, Tapas Bars, Gastropubs",€,3.5,12,"Calle Amparo, 9 41003 Seville Spain",+34697149507
+202,Belmonte,Tapas Bars,€€,3.5,17,"Calle Mateos Gago, 24 41004 Seville Spain",+34954214014
+203,Antigua Abacería de San Lorenzo,Tapas Bars,€€,4.0,16,"Calle Teodosio, 53 41002 Seville Spain",+34954380067
+204,Bartolomea,"Mediterranean, Tapas Bars",€€,4.5,21,"Calle Pastor y Landero, 10 41001 Seville Spain",+34955234370
+205,La Comidilla,"Spanish, Tapas Bars, Wine Bars",€€,4.5,39,"Calle Callao, 1 41010 Seville Spain",+34695158383
+206,La Malvaloca,Tapas Bars,empty,4.5,15,"Pl. de la Encarnación, 20 41003 Seville Spain",+34955628181
+207,Lar Gallego,"Spanish, Seafood, Tapas Bars",€€,4.5,5,"Calle Gonzalo Bilbao, 20 41003 Seville Spain",+34954422355
+208,Aladdín,"Middle Eastern, Arabic, Kebab",€,4.5,15,"Calle Juan Antonio Cavestany, 6 41003 Seville Spain",+34954539395
+209,Wilson Bar,Latin American,€€,4.0,14,"Plaza de la Caña, 49 41007 Seville Spain",+34954440422
+210,Chips Bar & Burger,"American (Traditional), Burgers, Hot Dogs",€€,4.5,8,"Calle Santo Domingo de la Calzada, 11 41018 Seville Spain",+34955527916
+211,Kaede,"Japanese, Sushi Bars",€€,3.0,22,"Calle Santa María la Blanca, 32 41004 Seville Spain",+34954220988
+212,Sidonia,Tapas/Small Plates,€,4.0,30,"Calle de Calatrava, 16 41002 Seville Spain",+34954903532
+213,Las Escobas,"Spanish, Mediterranean",€€,3.5,25,"Calle Álvarez Quintero, 62 41004 Seville Spain",+34954560416
+214,Casa Moreno,Spanish,€€,4.5,14,"Calle Gamazo, 7 41001 Seville Spain",+34954228315
+215,Bodega La Mina,"Tapas Bars, Sandwiches, Tapas/Small Plates",€,4.0,17,"Cuesta del Rosario, 7D 41004 Seville Spain",+34954214092
+216,Sloppy Joe's,"Burgers, Pizza, American (Traditional)",€,4.0,30,"Calle Camilo José Cela, 5 41018 Seville Spain",+34954923424
+217,Levíes,"Tapas Bars, Tapas/Small Plates",€,3.0,48,"Calle San José, 15 41004 Seville Spain",+34954215308
+218,La Sal,"Arroceria / Paella, Tapas Bars",€€,4.0,13,"Calle Doncellas, 8 41004 Seville Spain",+34954535846
+219,La Brioche,"Sandwiches, Cafeteria",€,4.5,13,"Calle Barrau, 23 41018 Seville Spain",+34954631953
+220,Blanco Cerrillo,Tapas Bars,€,4.0,29,"Calle José de Velilla, 1 41001 Seville Spain",+34954227384
+221,Gastronauta,Tapas Bars,€€,4.0,13,"Calle Esperanza de Triana, 41 41010 Seville Spain",+34633050003
+222,Los Rodríguez,"Tapas Bars, Spanish, Mediterranean",€,5.0,8,Amador de los Ríos 41003 Seville Spain,+34955451771
+223,Orsini Pizzeros,Italian,€€,4.0,25,"Calle de los Reyes Católicos, 25 41001 Seville Spain",+34954216165
+224,Lobo López,Tapas Bars,€€,4.0,11,"Calle Rosario, 15 41001 Seville Spain",+34854705834
+225,Pura Gula,"Italian, Pizza",€€,4.0,28,"C. C. Viapol Calle Pirotecnia, 1 41013 Seville Spain",+34954415908
+226,Castizo,"Tapas/Small Plates, Wine Bars",empty,4.0,11,"Calle Zaragoza , 6 41001 Seville Spain",+34955180562
+227,Petit Comite,"Mediterranean, Spanish",€€,4.0,27,"Calle Dos de Mayo, 30 41001 Seville Spain",+34954229595
+228,Filo,"Sandwiches, Juice Bars & Smoothies, Breakfast & Brunch",empty,4.5,5,"Paseo de Catalina de Ribera, 5 41004 Seville Spain",+34954036714
+229,La Mata 24,"Spanish, Mediterranean",€€,4.0,12,"Plaza de la Mata, 24 41002 Seville Spain",+34954370586
+230,La Mia Tana,"Pizza, Italian",€,3.5,44,"Calle Pérez Galdós, 24 41004 Seville Spain",+34954226897
+231,La Chaparrita,Mexican,€€,4.0,26,"Calle Óscar Carvallo, 5 41018 Seville Spain",+34954091364
+232,La Ojiva,Tapas Bars,€,4.5,3,"Calle San Esteban, 30 41003 Seville Spain",+34663520196
+233,Gourmet Experience,"Spanish, Cocktail Bars, Pizza",€€,4.0,21,"Plaza del Duque de la Victoria, 8 41001 Seville Spain",+34636661500
+234,Manolo León,"Spanish, Andalusian",€€€,4.5,10,"Calle Guadalquivir, 8 41002 Seville Spain",+34954373735
+235,Veganitessen,"Vegetarian, Vegan, Patisserie/Cake Shop",€,4.5,12,"Calle Pastor y Landero, s/n 41001 Seville Spain",
+236,Casa Carmen,"Seafood, Spanish",€€€,4.0,9,"Calle Santander, 15 41001 Seville Spain",+34854708609
+237,Dos de Mayo,"Tapas Bars, Spanish, Pizza",€,3.5,65,"Plaza de la Gavidia, 6 41002 Seville Spain",+34954908647
+238,la Cava,"Wine Bars, Tapas Bars",€€,4.5,14,"Calle Hernando Colón,12 41004 Seville Spain",+34954531652
+239,Sushi 81,Japanese,€,4.5,7,"Calle San Juan Bosco, 57 41008 Seville Spain",+34955267094
+240,Hops & Dreams,"Wine Bars, Tapas/Small Plates, Beer Bar",empty,4.5,16,"Calle Jesús del Gran Poder, 83 41002 Seville Spain",+34955198654
+241,Picalagartos,Tapas Bars,€€,4.5,16,"Calle de Hernando Colón, 7 41004 Seville Spain",+34954226940
+242,VIPS,"Spanish, Cafeteria",€€,4.0,18,"Avenida República Argentina, 23-25 41011 Seville Spain",+34638561470
+243,El Ambigú,"Spanish, Breakfast & Brunch, Tapas Bars",€,4.0,17,"Calle Feria, 47 41003 Seville Spain",+34954381015
+244,Los Claveles,"Spanish, Tapas Bars",€,4.0,18,"Plaza de los Terceros, 13 41003 Seville Spain",
+245,Qi Lin Ke,"Dim Sum, Wok",€,4.0,30,"Calle Marque de Pickman, 66 41005 Seville Spain",+34688095773
+246,Raimundo,"Spanish, Tapas Bars, Breweries",€,3.5,10,"Calle de San Benito, 8 41018 Seville Spain",+34954531818
+247,Amorino,"Ice Cream & Frozen Yogurt, Waffles, Coffee & Tea",€,4.5,10,"Av. de la Constitución, 30 41001 Seville Spain",+34954210048
+248,El Patio de San Eloy,"Spanish, Tapas Bars, Cafeteria",€,3.5,39,"Calle de San Eloy, 9 41001 Seville Spain",+34954501070
+249,Samurai,"Japanese, Sushi Bars",€,4.0,29,"Calle Salado, 6 41010 Seville Spain",+34954283106
+250,Pati tó,"French, Cheese Shops, Wine Bars",€€,4.0,12,"Calle Arrayán, 23 41003 Seville Spain",+34954372942
+251,Alcaiza,"Spanish, Tapas Bars",€€,3.5,20,"Calle Cuesta del Rosario, 13 41001 Seville Spain",+34954211281
+252,Mesón Guadalquivir,"Diners, Tapas Bars",€,4.0,6,"Calle Camilo José Cela, 1 41018 Seville Spain",+34954924139
+253,Salt and Sugar,"Delicatessen, Bakeries, Cafeteria",€,4.0,24,"Calle Ximénez de Enciso, 12 41004 Seville Spain",+34682485246
+254,Don Raimundo,Spanish,€€€,4.0,10,"Calle Argote de Molina, 26 41004 Seville Spain",+34954223355
+255,La Huerta 9,"Tapas Bars, Vegetarian, Asian Fusion",€,3.5,17,"Plaza los Terceros, 9 41003 Seville Spain",+34954218206
+256,Emperador Trajano,"Breakfast & Brunch, Beer Bar, Tabernas",€,4.0,10,"Calle Trajano, 10 41002 Seville Spain",+34954905111
+257,Mano de Santo,"Mexican, Seafood",€€,4.0,22,"Alameda de Hercules, 86-92 41002 Seville Spain",
+258,Maestro Marcelino,"Delicatessen, Mediterranean, Tapas Bars",€€,4.5,10,"Calle Hernando de Colón, 9 41004 Seville Spain",+34954227281
+259,Los Corales,Tapas Bars,€€,3.5,15,"Calle Álvarez Quintero, 10 41004 Seville Spain",+34637493824
+260,Yamazaki,Japanese,€€€,4.0,16,"Plaza de la Encarnación, 20 41003 Seville Spain",+34954561712
+261,La Almiranta,Tapas Bars,€€€,3.5,24,"Calle Almirantazgo, 2 41001 Seville Spain",+34954328041
+262,El Giraldillo,"Spanish, Tapas/Small Plates",€€,3.5,10,"Plaza Virgen de los Reyes, 2 41004 Seville Spain",+34954214525
+263,El Disparate,Tapas Bars,€€,5.0,9,"Alameda de Hércules, 31 41002 Seville Spain",+34680127413
+264,Puerta Osario,Tapas Bars,€€,4.0,6,"Puerta del Osario, 20 41003 Seville Spain",+34645868383
+265,Hotel Inglaterra,"Hotels, Coffee & Tea",€€,3.5,10,"Plaza Nueva, 7 41001 Seville Spain",+34954224970
+266,Café del Valle,"Cafeteria, Coffee & Tea",€,5.0,20,"Calle Virgen del Valle, 8 41011 Seville Spain",+34954453578
+267,Mamá Inés,"Desserts, Cafeteria, Coffee & Tea",€,4.5,7,"Plaza Zurbarán, 4 41003 Seville Spain",
+268,Horacio,Restaurants,€€,4.0,8,"Calle Antonia Díaz, 9 41001 Seville Spain",+34954225385
+269,La Isla,Spanish,€€€,3.5,21,"Calle Arfe, 23 41001 Seville Spain",+34954215376
+270,Gazuza,Mediterranean,€€,4.5,5,"Calle Capitán Vigueras, 21 41004 Seville Spain",+34954424036
+271,La Mafia,Italian,€€,4.5,7,"Calle Luis de Morales, 2 41018 Seville Spain",+34954572247
+272,Il Basilico,Italian,€€,4.5,20,"Avenida de las Civilizaciones, 55 41927 Mairena del Aljarafe Spain",+34955986311
+273,El Librero,"Spanish, Mediterranean, Tapas Bars",€,3.5,19,"Pasaje Andreu, 4 41004 Seville Spain",+34667164434
+274,DeÓ - Centro,"Modern European, Signature Cuisine",€€€€,4.5,5,"Calle Jesús Del Gran Poder, 83 41002 Seville Spain",+34955198654
+275,Sacramento,"Steakhouses, Tapas Bars, Spanish",€,4.0,26,"Calle Feria, 141 41002 Seville Spain",+34955279042
+276,Simún Vintage,Spanish,€,4.0,7,"Calle San Felipe, 11 41003 Seville Spain",+34954047213
+277,La Flor de Toranzo,Tapas Bars,€,4.0,16,"Calle Jimios, 1 41001 Seville Spain",+34954229315
+278,Envidia,"Cafeteria, Cocktail Bars",€,4.0,18,"Calle Juan Antonio Cavestany, 33 41003 Seville Spain",+34699355386
+279,Hostería del Laurel,"Hotels, Spanish, Tapas Bars",€€€,3.5,12,"Plaza de los Venerables, 5 41004 Seville Spain",+34954220295
+280,Alcázares,"Tapas Bars, Breakfast & Brunch, Coffee & Tea",€,4.0,20,"Plaza de la Encarnación, 13 41003 Seville Spain",
+281,Rogelio León,Spanish,€€€,3.5,11,"Calle Diego Angulo Íñiguez, 16 41018 Seville Spain",+34954539672
+282,Casa Antonio - Los Caracoles,Tapas Bars,€€,4.0,10,"Calle Pérez Galdós, 13 41004 Seville Spain",+34954213172
+283,La Cantina,Tapas Bars,€,4.0,11,"Mercado de la calle Feria Calle Feria, s/n 41003 Seville Spain",
+284,King Do,Dim Sum,€,3.0,17,"Avenida de José Laguillo, 20 41003 Seville Spain",+34954421113
+285,Il Forno,"Spanish, Italian, Modern European",€€,4.0,11,"Calle Trajano, 44 41002 Seville Spain",+34954380901
+286,Perro Chiko,"Cocktail Bars, Modern European, Tapas Bars",€€,4.0,10,"Plaza de la Encarnación, 8 41003 Seville Spain",+34955440030
+287,TGB - The Good Burger,Burgers,€,3.0,33,"Avenida Paseo de Cristina, 3 41013 Seville Spain",+34954224582
+288,Los Valencianos 1946,"Ice Cream & Frozen Yogurt, Vegan, Gluten-Free",€,4.5,14,"Calle Adriano, 32 41001 Seville Spain",+34633149400
+289,Miss Sushi,Sushi Bars,€€,4.0,8,"Calle San Pablo, 20 41001 Seville Spain",+34955549328
+290,La Montanera,Spanish,€€€€,4.0,11,"Calle Juan Sebastián Elcano, 16 41011 Seville Spain",+34954276990
+291,El Tremendo,Spanish,€,4.0,13,"Calle Almirante Apodaca, 15 41003 Seville Spain",
+292,Azabache,"Tapas Bars, Spanish",€€,4.0,8,"Calle Santo Tomás, 11 41004 Seville Spain",+34954224702
+293,Arco,"Spanish, Tapas Bars",€€,4.0,5,"Calle Dos de Mayo, 8 41001 Seville Spain",+34954212073
+294,Gago 6,Tapas Bars,€€,4.0,20,"Calle Mateos Gago, 6 41004 Seville Spain",+34955381651
+295,La Barandilla,Tapas Bars,€€,4.5,8,"Calle Joaquin Guichot, 12 41001 Seville Spain",+34634630863
+296,Foster's Hollywood,"American (Traditional), Burgers",€€,4.0,5,"Calle Luis de Morales, 2 41018 Seville Spain",+34954581367
+297,Cervecería Mezquita,Tapas Bars,€,3.5,19,"Calle Santa María La Blanca, 19 41004 Seville Spain",+34954423306
+298,Donaire,"Tapas Bars, Beer Bar",€€,3.0,14,"Calle Jesús de las Tres Caídas, 2 41004 Seville Spain",+34954213762
+299,Lucas’s City,"Bars, Spanish, Tapas Bars",empty,4.5,5,"Calle Blanca de los Ríos, 2 41004 Seville Spain",+34955834520
+300,Bodega La Aurora,"Tapas Bars, Tabernas",€,4.0,6,"Calle Pérez Galdós, 9 41004 Seville Spain",+34658624618
+301,El Gato Azul,"Pizza, Italian",€,4.0,14,"Plaza de Los Maldonados, 5 41003 Seville Spain",+34954370834
+302,Il Vesuvio,Italian,€€€,4.0,18,"Calle Tetuán, 15 41001 Seville Spain",+34954217783
+303,Alianza,"Tapas Bars, Sandwiches",empty,4.5,6,"Plaza de la Alianza, S/N 41004 Seville Spain",+34954217635
+304,La Antigua Bodeguita,"Spanish, Mediterranean",€,4.0,18,"Plaza del Salvador, 6 41004 Seville Spain",+34954561833
+305,Albedrío,"Tapas Bars, Spanish, Signature Cuisine",€€,4.5,3,"Calle de Juan de Mata Carriazo, 4 41004 Seville Spain",+34954419199
+306,Casa Carlos,"Tapas Bars, Cafeteria, Spanish",€,4.5,4,"Avenida Menéndez Pelayo, 7 41003 Seville Spain",+34954542984
+307,Patronas,Tapas Bars,€,4.5,9,"Calle Santas Patronas, 11 41001 Seville Spain",+34954564990
+308,Arroz Blanco,Peruvian,€,5.0,8,"Calle Coral, 5 41009 Seville Spain",+34955210972
+309,Pizzeria da Gabri,Pizza,€,5.0,7,"Calle Zaragoza, 38 41001 Seville Spain",+34691758959
+310,Casa Kiko,"Tapas/Small Plates, Spanish",€,4.5,14,"Calle de Herbolario, 17 41004 Seville Spain",+34954215177
+311,Taberna de Torneo,"Spanish, Tapas Bars",€,4.0,21,"Avenida del Concejal Alberto Jiménez-Becerril, 20 41009 Seville Spain",+34954901784
+312,La Gorda de Las Setas,"Tapas Bars, Spanish",€,3.5,19,"Plaza de la Encarnacion, s/n 41003 Seville Spain",+34661241316
+313,Piola,"Spanish, Breakfast & Brunch, Tapas Bars",€,3.5,23,"Alameda de Hércules, 57 41002 Seville Spain",+34954377191
+314,Santa Gloria,"Bakeries, Patisserie/Cake Shop, Breakfast & Brunch",€€,4.0,10,"Calle Canalejas, 7 41001 Seville Spain",+34954913778
+315,Mesones del Serranito,"Dive Bars, Spanish, Tapas Bars",€€,3.5,11,"Calle Alfonso XII, 9 41001 Seville Spain",+34954218299
+316,El Cateto,Tapas Bars,€,4.0,14,"Calle Sinaí, 25 41007 Seville Spain",+34954584366
+317,Realcázar,"Tapas Bars, Spanish",empty,4.5,6,"Calle San Fernando, 27 41004 Seville Spain",+34954229578
+318,El Bacalao,"Spanish, Tapas Bars, Mediterranean",€€,4.0,4,"Plaza de Ponce de León, 15 41003 Seville Spain",+34954216670
+319,Orfeo,Cafeteria,€,4.0,11,"Calle Jesús del Gran Poder, 19 41001 Seville Spain",+34955286287
+320,Mundial,"Coffee & Tea, Tapas Bars",€,4.0,13,"Plaza de la Encarnación, 35 41003 Seville Spain",
+321,Casa Plácido,"Spanish, Bars",€€,4.0,6,"Calle Mesón del Moro, 11 41004 Seville Spain",+34954563971
+322,Manolo Cateca,Tapas Bars,€,4.5,8,"Calle Santa María de Gracia, 11 41004 Seville Spain",+34657590509
+323,Capricho,"Spanish, Tapas Bars",€€,4.5,14,"Calle Demófilo, 1 41020 Seville Spain",+34955444693
+324,La Bernarda,Tapas Bars,€€,3.5,7,"Calle Juan de Mata Carriazo, s/n 41018 Seville Spain",+34955512334
+325,Blanco Cerrillo,"Tapas Bars, Spanish",€,4.0,18,"Calle Dr.Jiménez Díaz, 16 41008 Seville Spain",+34954351008
+326,Dulce Trazo,"Cafeteria, Breakfast & Brunch, Desserts",€,3.5,22,"Calle Méndez Núñez, 7 41001 Seville Spain",+34954219609
+327,Sibuya,Sushi Bars,empty,5.0,4,"Calle Albareda, 10 41001 Seville Spain",+34954035030
+328,Tribuna,"Tapas Bars, Beer Bar",€,4.5,16,"Calle Concha Espina, 9 41010 Seville Spain",+34954276340
+329,La Escondida,"Tapas Bars, Modern European",€€,4.0,13,"Calle Cardenal Bueno Monreal, 30 41013 Seville Spain",+34954614879
+330,Gorki,"Tapas Bars, Spanish",€€,4.5,5,"Calle Almirante Lobo, 2 41001 Seville Spain",+34954211578
+331,Taberna El Papelón,Tabernas,empty,5.0,4,"Calle Granada, 2 41001 Seville Spain",
+332,Casa Paco,Spanish,€,3.5,39,"Alameda de Hércules, 23 41002 Seville Spain",+34954900148
+333,Tropiqual,"Cocktail Bars, Sushi Bars, Steakhouses",empty,4.5,3,"Plaza de la Encarnación, 34 Now n.23 41003 Seville Spain",+34854703250
+334,Slice of New York Pizza,"Pizza, Food Delivery Services, Vegetarian",€,4.0,23,"Calle Alemanes, 13 41004 Seville Spain",+34954223364
+335,Bodegón Alfonso XII,"Breakfast & Brunch, Tapas Bars, Spanish",€,4.0,8,"Calle de Alfonso XII, 33 41001 Seville Spain",+34954910420
+336,Pasaje,Tapas Bars,€€,4.0,6,"Calle Luís de Montoto, 85 41018 Seville Spain",+34954574982
+337,Pitacasso,"Mediterranean, Tapas Bars, Vegetarian",€,4.5,18,"Plaza de Calderón de la Barca, 10 41003 Seville Spain",+34610592797
+338,Mr. Pizza,Italian,€,4.0,9,"Avenida de Menéndez Pelayo Esquina Calle Juan del Castillo, 1 41003 Seville Spain",+34954534195
+339,Zoko,"Spanish, Bars",€€,4.5,7,"Calle Marqués de Paradas, 55 41001 Seville Spain",+34954963149
+340,Tapas Viapol,"Spanish, Tapas Bars",€€,4.0,7,"Calle José Recuerda Rubio, 5 41018 Seville Spain",+34954646224
+341,La Urbana,Pizza,empty,5.0,4,"Calle Puerta de Carmona, 4 41003 Seville Spain",+34954031217
+342,Casa Duque,"Spanish, Tapas/Small Plates, Tapas Bars",€,3.5,14,"Calle Chaves Nogales, 7 41018 Seville Spain",+34954531934
+343,Taberna Del Arenal,Spanish,€,3.5,14,"Calle Almirante Lobo, 2 41001 Seville Spain",+34954221142
+344,Clorofila,"Tapas Bars, Spanish",€€,4.0,9,"Calle Santander, 15 41001 Seville Spain",+34667735989
+345,Pando Cuna,"Spanish, Venues & Event Spaces, Tapas Bars",€€,4.0,4,"Calle Cuna, 5 41004 Seville Spain",+34954501070
+346,La Linterna Ciega,Tapas Bars,€€,3.5,11,"Calle Regina, 10 41003 Seville Spain",+34854521021
+347,Zoom Pizza,Pizza,€,4.5,7,"Calle Julio César, 12 41001 Seville Spain",+34954043485
+348,Karpanta,"Tabernas, Pizza, Tapas Bars",€,2.5,22,"Calle Gonzalo Bilbao, 10-12 41003 Seville Spain",+34954564322
+349,El Mesón de Emilio,"Steakhouses, Argentine, Tapas Bars",€€,4.0,7,"Calle Pureza, 118 41010 Seville Spain",+34955715871
+350,Mármoles,"Tapas Bars, Coffee & Tea, Bars",€,4.0,6,"Plaza Ramón Ybarra Llosent, 1 41004 Seville Spain",+34625679545
+351,Mariscos Emilio,"Seafood, Tapas Bars",€€,4.0,10,"Avenida de Coria, 7 41010 Seville Spain",+34954334091
+352,Azahar,Spanish,€€€,4.5,3,"Plaza Jesús de la Redención, 2 41003 Seville Spain",+34954561496
+353,Cata 50,"Tapas Bars, Mediterranean, Spanish",€,4.0,18,"Avenida República Argentina, 22 a 41011 Seville Spain",+34955293068
+354,McDonald's,"Fast Food, Burgers, American (Traditional)",€,4.0,12,"Avenida Kansas City, s/n 41007 Seville Spain",+34954533730
+355,Da Pino,"Modern European, Italian",€€,4.0,10,"Calle María Auxiliadora, 9 41003 Seville Spain",+34674541710
+356,La Dalia,"Signature Cuisine, Gastropubs, Tapas Bars",€€,4.0,5,"Calle Trajano, 44 41002 Seville Spain",+34955321863
+357,La Chica,"Seafood, Spanish",€,3.5,13,"Calle Arroyo, 55 41003 Seville Spain",+34954533921
+358,Bar Miguel Angel,"Spanish, Tapas Bars",€€,4.0,10,"Avenida de Kansas City, 8 41007 Seville Spain",+34954578793
+359,La Niña Bonita,Tapas Bars,€€,4.5,16,"Calle Calatrava, 5 41002 Seville Spain",+34955425337
+360,La Fábrica de Besana,"Modern European, Tapas Bars, Gastropubs",€€,3.5,16,"Calle Correduría, 1 41002 Seville Spain",+34954376200
+361,Las Tablas,"Spanish, Tabernas",empty,4.5,7,"Calle Almirante Bonifaz, 4 41004 Seville Spain",
+362,Río Grande,"Spanish, Tapas Bars, Vegetarian",€€€€,3.5,43,"Calle Betis, 70 41010 Seville Spain",+34954273956
+363,Foster's Hollywood,"American (Traditional), Burgers",€€,4.5,5,"Avenida de Diego Martínez Barrio, 4 Local 25 41013 Seville Spain",+34954988762
+364,Mara Occidental,"Spanish, Tapas Bars",empty,4.0,6,"Calle Cefiro, 7 41018 Seville Spain",+34954573447
+365,Bar La Candelaria,Tapas Bars,€,4.5,6,"Calle Muñoz y Pabón, s/n 41004 Seville Spain",
+366,Salvador Rojo - Bar 33,Gastropubs,€€,4.5,9,"Avenida Manuel Siurot, 33 41013 Seville Spain",+34954229725
+367,Casa Eme,"Spanish, Tapas Bars",€,4.0,11,"Puerta del Osario, 5 41003 Seville Spain",
+368,Café Cicus,Cafeteria,€,4.5,4,"Madre de Dios, 1 41004 Seville Spain",
+369,Casa Casimiro,"Spanish, Tapas Bars",€€,4.0,15,"Avenida de Coria, 19 41010 Seville Spain",+34954341269
+370,La Chicotá,Tapas Bars,€,4.0,7,"Calle Luis Montoto, 23 41018 Seville Spain",+34954426026
+371,Porta Rossa,Italian,€€,5.0,8,"Calle Arenal, 5 41001 Seville Spain",+34954216139
+372,Tenderete,"Bars, Tapas Bars",€,4.5,8,"Calle Rodrigo Caro, 3 41004 Seville Spain",+34954220295
+373,Taiyo,Japanese,€€,4.0,11,"Calle Benito Mas y Prat, 3 41005 Seville Spain",+34954579409
+374,El 24,"Spanish, Tapas Bars",€,4.0,15,"Calle de Castilla, 18 41010 Seville Spain",+34608693274
+375,La Bañera,Tapas Bars,€,4.0,13,"Calle Alcázares, 13 41003 Seville Spain",+34625270035
+376,La Tasca del Pintor,"Spanish, Wine Bars, Tapas Bars",€,4.0,26,"Avenida de Finlandia, 16 41012 Seville Spain",+34955641334
+377,Er Tito,"Breakfast & Brunch, Tapas Bars, Tapas/Small Plates",€,4.5,6,"Calle José Gestoso, 11 41003 Seville Spain",+34618096033
+378,Pizza Pazza,"Pizza, Italian",€,4.5,10,"Calle Guadarrama, s/n 41005 Seville Spain",+34954096120
+379,Umbrete,Tapas Bars,€,4.0,10,"Calle San Luis, 89 41003 Seville Spain",+34954904969
+380,Doner Salama,"Turkish, Kebab",€,4.5,6,"Carretera de Carmona, s/n 41008 Seville Spain",+34955451622
+381,Las Palmas,"Tapas Bars, Beer Bar",€,4.0,12,"Avenida de San Francisco Javier, 7 41005 Seville Spain",+34956903686
+382,Jabalón,"Tapas Bars, Spanish, Mediterranean",€€,3.0,8,"Calle Luis Montoto, 54 41018 Seville Spain",+34954424153
+383,Cañabota,"Seafood, Tapas Bars",empty,4.0,10,"Calle Orfila, 3 41003 Seville Spain",+34954870298
+384,Las Piletas,Spanish,€€,4.0,9,"Calle Marqués de Paradas, 28 41001 Seville Spain",+34954220404
+385,Casa Cuesta,Tapas Bars,€€,4.0,4,"Calle Zaragoza, 50 41001 Seville Spain",+34954229718
+386,Petra,"Steakhouses, Mediterranean",empty,5.0,2,"Calle Alfalfa, 5 41004 Seville Spain",+34955628228
+387,Taberna La Encarnación,"Tapas Bars, Tabernas",€,4.0,8,"Calle Imagen, 2 41003 Seville Spain",+34954215178
+388,La Casa de Extremadura,Diners,€€,4.0,9,"Calle Fernández y González, 14 41001 Seville Spain",+34954225606
+389,La Tasca,"Tapas Bars, Spanish, Pubs",€,3.5,7,"Plaza de José Luis Vila, 1 41003 Seville Spain",+34615073586
+390,Bar Manolo,"Andalusian, Tapas Bars",€,3.5,15,"Plaza de la Alfalfa,s/n 41004 Seville Spain",+34954214176
+391,Chifa by Nazca,Peruvian,€€,4.0,9,"Calle Barco, 2 41002 Seville Spain",+34691320898
+392,Taberna Mahareta,"Spanish, Tapas Bars",€,4.0,14,"Calle Alameda de Hercules, 27 41002 Seville Spain",+34955193966
+393,100 Montaditos,Sandwiches,€,4.0,8,"Calle San Fernando, 29 41004 Seville Spain",
+394,La Tagliatella,Italian,€€,3.5,11,"Calle Luis de Morales, 2 41018 Seville Spain",+34954575545
+395,El Mercado de Enma,"Spanish, Gastropubs, Tapas Bars",€€,4.0,37,"Avenida de la Filosofía, 70 41927 Mairena del Aljarafe Spain",+34955414190
+396,White Bar,"Pubs, Spanish",€€,3.0,8,"Calle San Fernando, 13 41004 Seville Spain",+34954222097
+397,Boheme,Cafeteria,€€,3.5,10,"Calle Arfe, 24 41001 Seville Spain",
+398,San Marco,Italian,€€€,5.0,4,"Calle Betis, 68 41010 Seville Spain",+34954280310
+399,La Fábula,"Tapas Bars, Beer Bar",€,4.0,18,"Ronda de Triana, 31 41010 Seville Spain",+34659545780
+400,Trashumante,Tapas Bars,€€,4.5,4,"Calle Juan de Mata Carriazo, 4 41018 Seville Spain",+34954095260
+401,El Rey de los Bocadillos,Sandwiches,€,4.0,10,"Calle Jose Ignacio Benjumea, 2 41004 Seville Spain",
+402,La Cigala de Oro,"Spanish, Tapas Bars",€,3.5,18,"Calle José Laguillo, 23 41003 Seville Spain",+34954539172
+403,La Moderna,"Bars, Spanish",€,2.5,31,"Calle Mateos Gago, 7 41004 Seville Spain",+34954293115
+404,Jaipur,"Indian, Pakistani",€€,3.0,25,"Plaza de la Encarnación, 18 41003 Seville Spain",+34954227409
+405,El Chiringuito,"Tapas Bars, Tabernas",€,4.0,10,"Calle Huelva, 36 41004 Seville Spain",
+406,Palomo,"Cafeteria, Breakfast & Brunch",€,5.0,3,"Calle Recaredo, 4 41003 Seville Spain",+34600864519
+407,El Pimiento,"Spanish, Pubs, Tapas Bars",€,4.0,5,"Calle Niño Perdido, 1 41002 Seville Spain",+34954591255
+408,La Basílica,"Modern European, Spanish",€€,4.0,4,"Avenida de la Buhaira, s/n 41018 Seville Spain",+34954631112
+409,Palo Cortao,"Tapas Bars, Wine Bars",empty,5.0,3,"Calle Mercedes de Velilla, 4 41004 Seville Spain",+34649446120
+410,Café Hércules,"Coffee & Tea, Breakfast & Brunch",€€,4.0,14,"Calle Peris Mencheta, 15 41001 Seville Spain",+34954902198
+411,Hermandad del Sushi,"Japanese, Sushi Bars",€€,5.0,3,"Calle Feria, 11 41003 Seville Spain",
+412,El Rincón de la Buhaira,"Tapas/Small Plates, Tapas Bars",€€,4.5,4,"Calle José de la Cámara, 3 41018 Seville Spain",+34954534740
+413,Pikislabis,"Tapas/Small Plates, Breakfast & Brunch",€,4.5,3,"Calle Alfonso XII, 25 41001 Seville Spain",+34664302901
+414,Barbiana,Spanish,€€,4.0,3,"Calle Albareda, 11 41001 Seville Spain",+34954224402
+415,El Caserío,"Mediterranean, Spanish",€€,4.0,5,"Calle Acetres, 7 41004 Seville Spain",+34954226436
+416,Los Juanes,Tapas Bars,€,4.5,4,"Calle de Menjíbar, 8 41003 Seville Spain",+34954904691
+417,Milagritos,"Tapas Bars, Spanish",€€€,4.0,17,"Calle de los Alemanes, 27 41004 Seville Spain",+34954227224
+418,La Trastienda,"Seafood, Tapas Bars",empty,4.0,9,"Calle Alfalfa, 8 41004 Seville Spain",+34954210463
+419,El León de San Marcos,"Tapas Bars, Tabernas",€,4.0,4,"Calle Vergara, 3 41003 Seville Spain",+34955226058
+420,La Raza,Spanish,€€,3.0,29,"Avenida de Isabel La Católica, 2 41013 Seville Spain",+34954232024
+421,El Americano,American (Traditional),€,4.0,42,"Plaza del Ayuntamiento, s/n 41940 Tomares Spain",+34954155100
+422,La Chalá,"Spanish, Mediterranean, Asian Fusion",€€,4.0,14,"Plaza Puerta Real, 6 41002 Seville Spain",+34954903091
+423,Buen Trago,Tapas Bars,€€,3.5,11,"Calle Cuesta del Rosario, 25 41004 Seville Spain",+34954410797
+424,Casa Manolo,"Spanish, Tapas Bars",€,4.0,16,"Calle San Jorge, 16 41010 Seville Spain",+34954334792
+425,Casa Roman,"Spanish, Wine Bars",€,3.0,13,"Plaza de los Venerables, 1 41004 Seville Spain",+34954228483
+426,La Sureña,"Tapas Bars, Spanish",€,3.0,8,"Plaza de la Encarnación, s/n 41003 Seville Spain",+34954229747
+427,La Jara,"Specialty Food, Tapas Bars",€,4.0,2,"Calle San Esteban, 34 41003 Seville Spain",
+428,Pachamama,"Vegetarian, Vegan",empty,5.0,4,"Calle Sta. Angela de la Cruz, 37 41003 Seville Spain",+34697230753
+429,Restaurante Ming,"Chinese, Seafood, Asian Fusion",empty,5.0,2,"Calle de Jose Luis Luque, 2 Plaza de la Encarnación 41003 Seville Spain",+34954217232
+430,La Bambina,Italian,€,4.5,4,"Calle Jiménez Aranda, 23 41011 Seville Spain",+34954426072
+431,Ena,Tapas Bars,€€€,3.5,8,"Calle San Fernando, 2 41004 Seville Spain",+34954917160
+432,Los Terceros,Tapas Bars,€,3.0,12,"Plaza los Terceros, 11 41003 Seville Spain",+34954228317
+433,Bodeguita La Parihuela,Tapas Bars,€,4.0,8,"Pje. de Vila, 12 41004 Seville Spain",+34608597897
+434,El Fogón de San Andrés,"Spanish, Breakfast & Brunch",€,4.0,9,"Calle Angostillo, 8 41003 Seville Spain",
+435,En la Espero te  Esquina,Tapas Bars,€,3.0,17,"Calle Corral del Rey, 10 41004 Seville Spain",+34955029977
+436,Abacería Puracepa,Spanish,€€,3.5,11,"Plaza de San Francisco, 8 41004 Seville Spain",+34954218119
+437,La Sierra II,Tapas Bars,€,4.5,5,"Calle Virgen de Begoña, 9 41011 Seville Spain",+34954456049
+438,Avanti con... la Guaracha,Tapas Bars,€€,4.0,13,"Calle Peris Mencheta, 42 41002 Seville Spain",+34675072245
+439,San Marco,Italian,€€€,3.5,9,"Calle Santo Domingo de la Calzada, 5 41018 Seville Spain",+34954583343
+440,Lalola,Spanish,empty,5.0,3,"Calle Conde de Torrejón, 9 41003 Seville Spain",+34633457162
+441,LaHerre,Tapas Bars,empty,4.5,3,"Calle Argote de Molina, 17 41004 Seville Spain",+34955280003
+442,Pomodoro,Italian,€,3.5,11,"Plaza de la Alameda de Hércules, 29 41002 Seville Spain",+34955291617
+443,Malavida,Tapas Bars,empty,4.5,3,"Pl. de la Encarnación, s/n 41003 Seville Spain",+34954227763
+444,BierKraft,"Tapas Bars, Beer Bar",empty,4.5,4,"Calle Correduría, 35 41003 Seville Spain",+34955124180
+445,L'Inspiration,French,€€,4.5,5,"Calle Valparaíso, 13 41012 Seville Spain",+34637986076
+446,Casa Salva,Mediterranean,€€,4.5,6,"Calle Pedro del Toro,12 41001 Seville Spain",+34954214115
+447,Palosanto,"Tapas Bars, Coffee & Tea",€,4.0,6,"Calle Rivero, 7 41004 Seville Spain",+34605218042
+448,Los Soportales,"Wine Bars, Tapas Bars",€,3.5,18,"Plaza del Salvador, 4 41004 Seville Spain",+34954561833
+449,La Despensa der Fede,"Spanish, Tapas Bars, Breakfast & Brunch",€,4.0,5,"Calle Beatriz de Suabia, 61 41005 Seville Spain",+34954632527
+450,La Locanda di Andrea,"Tapas/Small Plates, Italian, Vegetarian",empty,5.0,9,Feria 52 41003 Seville Spain,+34955183560
+451,Agua Y Vida Bar,Spanish,€,4.0,10,"Calle Vida, 15 41004 Seville Spain",
+452,Carlos Baena,Spanish,€€,4.5,2,"Calle Rastro, 28 41004 Seville Spain",+34954421755
+453,Bagdad,"Hookah Bars, Middle Eastern",€,4.5,12,"Calle Pureza, 22 41010 Seville Spain",+34672016686
+454,Alameda 84,"Bars, Spanish",€,4.0,8,"Alameda de Hércules, 84 41002 Seville Spain",+34954904099
+455,Chiva,"Tapas Bars, Modern European",€,4.5,3,"Avenida de El Greco, 12 41007 Seville Spain",+34954574677
+456,Irún 39,Tapas Bars,empty,4.5,4,"Avenida de Menéndez Pelayo, 39 41003 Seville Spain",
+457,Las Columnas,"Spanish, Tapas Bars",€,3.5,33,"Alameda de Hércules, 19 41002 Seville Spain",+34954388106
+458,Salsamento,"Tapas Bars, Spanish",empty,5.0,3,"Calle Jerónimo Hernández, 19 41003 Seville Spain",+34653952628
+459,El Espigón,"Spanish, Seafood, Mediterranean",€€€,4.5,8,"Calle Bogota, 1 41013 Seville Spain",+34954239256
+460,San Benito,Tapas Bars,€€,4.0,6,"Avenida de la Buhaira, 13 41018 Seville Spain",
+461,El Cordobés,"Beer Bar, Spanish",€€,3.5,11,"Calle Santa Maria la Blanca, 16 41004 Seville Spain",+34954413207
+462,Casa Diego,"Tapas/Small Plates, Spanish, Tapas Bars",€€,4.5,10,"Calle Esperanza de Triana, 19 41010 Seville Spain",+34655776847
+463,Karpanta,"Pizza, Tapas Bars, Burgers",€,3.0,17,"Calle Alameda de Hércules, 7 41002 Seville Spain",+34954902310
+464,Maravilla Social Club,Tapas Bars,€€,4.5,5,"Calle Maravillas, 1 41003 Seville Spain",+34955672018
+465,Altamira,"Mediterranean, Italian, Steakhouses",€€€,2.0,28,"Calle Santa María la Blanca, 4 41004 Seville Spain",+34954425030
+466,Coq & Roll Market,"Salad, Wine Bars",€,5.0,4,"Calle Jimios, 2 41001 Seville Spain",+34954211890
+467,Asador Salas,"Spanish, Steakhouses, Tapas Bars",empty,4.0,6,"Calle de Almansa, 15 41001 Seville Spain",+34954217796
+468,Manila,"Tapas Bars, Coffee & Tea",€€,4.5,3,"Calle Esperanza de la Trinidad, 4 41008 Seville Spain",+34954411717
+469,La Calzada,"Dive Bars, Tapas Bars",€,4.5,3,"Calle San Florencio, 3 41018 Seville Spain",+34955451865
+470,Ochoa,"Desserts, Cafeteria, Bakeries",empty,4.0,4,"Avenida Eduardo Dato, 22 41018 Seville Spain",+34954660778
+471,Picatoste,"Tapas/Small Plates, Mediterranean, Cafeteria",€€,3.5,11,"Calle de San Eloy, 18 41001 Seville Spain",+34954501070
+472,Alcázar,"Andalusian, Tapas Bars",€€,5.0,4,"Calle Peris Mencheta, 22 41002 Seville Spain",+34954383770
+473,Mariluz,Tapas Bars,€,4.0,6,"Calle Jabugo, 1 41008 Seville Spain",
+474,Just Good,"Salad, Delis, Burgers",€,4.5,4,"Calle Avión Cuatro Vientos, 1 41013 Seville Spain",+34954708082
+475,Habanilla,"Pubs, Coffee & Tea",€,4.0,12,"Plaza Alameda de Hércules, 63 41002 Seville Spain",+34954902718
+476,Taberna El Papelón,"Spanish, Tabernas",€,3.5,15,"Avenida de la Constitución, 34 41001 Seville Spain",+34954222996
+477,San Benito,Tapas Bars,€,4.0,7,"Calle Luis Montoto, 56 41018 Seville Spain",+34954537790
+478,Papirusa,"Spanish, Seafood, Asian Fusion",€€€,4.5,6,"Calle Antonia Díaz, 9 41001 Seville Spain",+34954225385
+479,Freiduría La Isla,"Fish & Chips, Food Delivery Services",€€,4.0,10,"Calle García de Vinuesa, 13 41001 Seville Spain",+34954228355
+480,La Buhaira,"Cafeteria, Tapas Bars",€€,4.0,7,"Calle Doctor Ordóñez de la Barrera, s/n 41004 Seville Spain",+34954541422
+481,La Manchega,"Tapas Bars, Spanish, Breakfast & Brunch",€€,4.0,17,"Calle del Dr. Fedriani, 25 41009 Seville Spain",+34954378868
+482,Cava del Europa,Tapas Bars,empty,4.0,4,"Calle Santa María la Blanca, 40 41004 Seville Spain",+34954531652
+483,Cañabota,"Signature Cuisine, Gastropubs",€€,4.0,5,Calle José Gestoso 17 41003 Seville Spain,
+484,Arenero,Tapas Bars,€€,3.5,7,"Pasaje de Vila, 6 41004 Seville Spain",+34954311713
+485,Los Dardos,"Dive Bars, Tapas Bars",€,3.5,9,"Plaza del Pozo Santo, 5 41003 Seville Spain",
+486,Kaori,Japanese,€€€,5.0,7,"Avenida de la Arboleda, s/n 41940 Tomares Spain",+34954287600
+487,Don Carlos,"Tapas Bars, Spanish",€€,3.5,7,"Calle General Polavieja, 18 41004 Seville Spain",+34954225979
+488,Bodega San José,Tapas Bars,€,4.0,9,"Calle Adriano, 10 41001 Seville Spain",+34954224105
+489,Palo Santo,Cafeteria,empty,4.5,7,"Calle Rivero, 7 41004 Seville Spain",
+490,Catador,"Spanish, Wineries",empty,4.5,3,"Pasaje de Vila, 13 41004 Seville Spain",+34653863102
+491,Love Horno Artesano,"Breakfast & Brunch, Bakeries, Sandwiches",empty,3.5,9,"Plaza de la Alfalfa, 10 41004 Seville Spain",+34955225840
+492,Arabesca,Lebanese,empty,4.5,7,"Calle San Fernando, 23 41004 Seville Spain",+34955545614
+493,la antojeria,Tapas Bars,€€,4.5,4,Avenida de la Buhaira 17 41018 Seville Spain,
+494,Kakure,"Sushi Bars, Japanese",€€,3.5,9,"Calle Marqués de Paradas, 32 41001 Seville Spain",+34954225740
+495,Bache San Pedro,"Tapas/Small Plates, Tapas Bars, Andalusian",empty,4.0,5,"Plaza Cristo de Burgos, 23 41003 Seville Spain",+34954502934
+496,El Papelón,"Tapas Bars, Tabernas",€,3.5,7,"Calle Amor de Dios, 47 41002 Seville Spain",+34954909679
+497,El Aguador,"Spanish, Tapas Bars",€,3.5,5,"Calle Albareda, 14 41001 Seville Spain",+34954224720
+498,Peña Bética La Decana,"Tapas Bars, Breakfast & Brunch",€,3.5,5,"Calle Santa María la Blanca, 12 41003 Seville Spain",+34954537689
+499,Taberna Primer Tramo,Tapas Bars,€€,4.0,2,"Calle Amador de los Ríos, 20-22 41003 Seville Spain",+34954426024
+500,El Trini,"Spanish, Cafeteria, Tapas Bars",€,3.5,16,"Calle de María Auxiliadora, 45 41003 Seville Spain",+34955260299
+501,Taberna Azafrán,"Spanish, Tapas Bars, Tabernas",€€,3.5,10,"Calle de Luis Montoto, 148 41005 Seville Spain",+34954576697
+502,La Sopa de Ganso,Spanish,empty,5.0,2,"Seville, Sevilla Spain",
+503,Alcuza,Spanish,€€,4.0,3,"Calle Campamento, 29 41018 Seville Spain",+34954542477
+504,La Revirá,Tapas Bars,€,3.5,6,"Calle Amador de los Ríos, 46 41003 Seville Spain",+34669266293
+505,Mesón del Pulpo Gallego,"Spanish, Tapas Bars",empty,4.5,6,"Calle de Tomás de Ibarra, 10 41001 Seville Spain",+34954220534
+506,Bambú,"Cafeteria, Desserts, Ice Cream & Frozen Yogurt",€,4.5,19,"Calle Parque de Grazalema, 1 41015 Seville Spain",+34954943781
+507,Mariscal,"Gastropubs, Tapas Bars",€€,4.0,20,"Calle Puerto Suspiro, 2 41006 Seville Spain",+34954070248
+508,El Papelón,"Tabernas, Spanish",€,4.0,5,"Avenida Menendez y Pelayo, 5 41004 Seville Spain",+34954426685
+509,Otto,"Cafeteria, Spanish, Mediterranean",empty,5.0,4,"Plaza Monte Sión, 8 41003 Seville Spain",+34955357848
+510,Taberna Lagarto,Tapas Bars,€,4.5,3,"Calle Hernando Colón, 7 41004 Seville Spain",
+511,La Terraza del Hotel Inglaterra,Tapas Bars,€€,4.5,2,"Plaza Nueva, 7 41001 Seville Spain",+34954224970
+512,Casa Rafita,Tapas Bars,€,4.0,8,Calle del Marqués de la Mina 41002 Seville Spain,
+513,La Flor De Mi Viña,Spanish,€,4.0,5,"Calle Jose de Velilla, 7 41001 Seville Spain",+34954564252
+514,Bar Juan Carlos,"Tapas Bars, Cheese Shops, Beer Bar",€,4.0,21,"Calle de Febo, 6 41010 Seville Spain",+34626213067
+515,La Fresquita,"Tapas Bars, Spanish",€€,3.5,10,"Calle Mateos Gago, 29 41004 Seville Spain",+34954226010
+516,Victoria Eugenia,"Tapas/Small Plates, Spanish, Tapas Bars",€€,3.5,6,"Calle Cuna, 2 41004 Seville Spain",+34954219675
+517,Taberna del Porvenir,"Tapas Bars, Tabernas, Spanish",€,4.0,18,Cardenal Bueno Monreal 41013 Seville Spain,+34954627902
+518,La Reja,"Spanish, Tapas Bars, Italian",€€,4.0,4,"Calle Santa María de Gracia, 14 41004 Seville Spain",+34954214086
+519,Pimentón,Tapas Bars,empty,5.0,7,"Calle García de Vinuesa, 29 41001 Seville Spain",+34686419976
+520,Alfakeke,"Tapas Bars, French, Wine Bars",empty,4.5,5,"Calle San Vicente, 13 41002 Seville Spain",+34644003505
+521,Casa Carmelo,"Spanish, Vegetarian, Tapas Bars",€€,4.5,3,"Calle Gloria, 6 Barrio Santa Cruz 41004 Seville Spain",+34954225332
+522,El 11 de Feria,"Spanish, Bars",€,4.0,3,"Calle Feria, 11 41003 Seville Spain",
+523,El Gato del Cura,Tapas Bars,empty,5.0,3,"Calle San Bernardo, 12 41018 Seville Spain",+34955075160
+524,Buoni Le Pizze,"Pizza, Italian",€,3.5,15,"Calle Amor de Dios, 56 41002 Seville Spain",+34955293150
+525,La Judería,"Spanish, Wine Bars",€€€€,4.5,6,13 Calle Cano y Cueto 41004 Seville Spain,+34954412052
+526,La Tarantela,"Pizza, Italian",€,4.0,5,"Calle Jose Laguillo, 23 41003 Seville Spain",+34954536325
+527,María Trifulca,"Tapas Bars, Spanish",€€€,3.5,17,"Puente de Triana, s/n 41010 Seville Spain",+34954330347
+528,No Piqui,"Breakfast & Brunch, Burgers, Pizza",empty,4.0,8,"Alameda de Hércules, 58 41002 Seville Spain",+34954963005
+529,Jin Ten Ke,"Chinese, Fast Food",€,4.0,16,"Calle Gonzalo de Segovia, 8 41010 Seville Spain",+34954272271
+530,Restaurante Gaia,"Vegan, Vegetarian",€€,3.5,16,"Calle Luis de Vargas, 4 41001 Seville Spain",+34954211934
+531,José Luis,"Spanish, Beer Bar",€€,3.5,10,"Plaza de Cuba, 3 41011 Seville Spain",+34954272017
+532,Taberna Alambique,Spanish,empty,4.5,6,"Calle Guardamino, 25 41004 Seville Spain",
+533,Café Sonoro,"Coffee & Tea, Cafeteria, Pubs",€,4.0,14,"Calle Vulcano , 7 41002 Seville Spain",+34618891852
+534,Curros,"Desserts, Coffee & Tea",€,4.5,7,"Calle Feria, 55 41500 Seville Spain",+34954387003
+535,Pomodoro,"Italian, Burgers",€,3.5,6,Calle Joaquin Guichot 7 41001 Seville Spain,+34954219432
+536,Los Cuevas,Spanish,€€,4.0,8,"Calle Virgen de Las Huertas, 1 41010 Seville Spain",+34954278042
+537,Casa Kiko,"Breakfast & Brunch, Tapas Bars",€€,3.5,7,"Calle Mercedes de Velilla, 4 41004 Seville Spain",+34954214841
+538,Casa Pepe,"Spanish, Tapas Bars",€,4.0,6,"Avenida de Miraflores, 11 41008 Seville Spain",+34954350684
+539,Freiduría El Salvador,"Tapas Bars, Fish & Chips",€€,4.0,5,"Plaza del Salvador, 5 41004 Seville Spain",
+540,La Espumosa,"Seafood, Tapas Bars",€,3.5,8,"Avenida de la Buhaira, 27 41018 Seville Spain",+34954426564
+541,Buentrago,Tapas Bars,€,4.5,3,"Calle Adriano, 8 41001 Seville Spain",
+542,13 Cuarenta,"Tapas Bars, Sandwiches, Breakfast & Brunch",€,3.5,10,"Calle Villegas, 2 41004 Seville Spain",
+543,La Bambina,"Italian, Pizza",€,4.0,5,"Calle Virgen de Regla, 1 41011 Seville Spain",+34644528163
+544,San Marco,Italian,€€€,4.0,2,"Calle Dr. Pedro de Castro, 1 41004 Seville Spain",+34954418760
+545,El Uno de San Román,"Spanish, Tapas Bars",€,4.5,4,Plaza de San Román s/n 41003 Seville Spain,
+546,El Nómada,"Italian, Burgers, Pizza",empty,4.5,3,"Calle Tomás de Ibarra, 3 41001 Seville Spain",+34954224236
+547,La Montería - Casa Joaquín Márquez,Spanish,€€,4.5,10,"Calle Felipe II, 8 41013 Seville Spain",+34954241229
+548,Bar Arenal,Tapas Bars,€,4.0,6,"Calle Arfe, 2 41001 Seville Spain",+34954223686
+549,Manolo León,Andalusian,€€,4.5,7,"Calle Juan Pablos, 8 41013 Seville Spain",+34954237109
+550,La Auténtica,"Tapas Bars, Tabernas",€,3.5,16,"Calle Felipe II, 6 41013 Seville Spain",+34954236462
+551,Sakura,"Japanese, Sushi Bars",€,3.5,23,"Avenida de San Francisco Javier, 19 41005 Seville Spain",+34954922188
+552,Donald,"Spanish, Tapas Bars, Cafeteria",€€,3.5,13,"Calle Canalejas, 5 41001 Seville Spain",+34954227252
+553,Sloppy Joe's,"Pizza, Burgers, American (Traditional)",€€,4.0,14,"Calle Asunción, 62 41011 Seville Spain",+34954277728
+554,Caótica Café,Cafeteria,empty,5.0,2,"Calle José Gestoso, 8 41003 Seville Spain",+34954541966
+555,Universal,"Tapas Bars, Cafeteria",€€,3.0,9,"Calle Blanca de los Ríos, 1 41004 Seville Spain",+34954224770
+556,Danubio,Coffee & Tea,€,4.5,3,"Calle Pueblo Saharaui, 3 41008 Seville Spain",
+557,Ingrid,"Breweries, German, Pubs",€,3.0,8,"Calle Pastor y Landero, 5 41001 Seville Spain",+34954218309
+558,Casa Ricardo,"Breakfast & Brunch, Tapas Bars",€€,3.5,8,"Calle José Luis Luque, 3 41003 Seville Spain",+34954218905
+559,La Comilona,"Spanish, Seafood",empty,4.5,2,"Calle Luis Arenas Ladislao, s/n 41005 Seville Spain",+34955673618
+560,Abacería Puerta Carmona,"Spanish, Tapas Bars",€€,2.5,7,"Plaza de San Agustín, 5 41003 Seville Spain",+34954988310
+561,Hermanos Gómez,"Tapas Bars, Bars",€,3.5,8,"Calle Jabugo, 2 41008 Seville Spain",+34954414864
+562,Casa Ruperto,Spanish,€,4.0,27,"Avenida Santa Cecilia, 2 41010 Seville Spain",+34954086694
+563,Tipico,Tapas Bars,empty,5.0,5,"Calle Pagés del Corro, 86 41010 Seville Spain",+34955704941
+564,Pasaje Dos,"Tapas Bars, Meat Shops, Spanish",€,3.5,7,"Calle de Luis Montoto, 98 41018 Seville Spain",+34954576397
+565,Bodega Cofrade Romero & Mejias,"Spanish, Tapas Bars",€,4.0,3,"Calle Arroyo, 97 41008 Seville Spain",+34647910360
+566,Taberna la Buhaira Gastrobar,"Gastropubs, Tabernas",empty,4.5,2,"Calle Chaves Nogales, 8 41018 Seville Spain",+34954091654
+567,Bodegas Diaz Salazar,"Spanish, Tapas Bars",€,3.5,9,"Calle Garcia de Vinuesa, 20 41001 Seville Spain",+34954213181
+568,Taco Bell,Mexican,€,4.0,1,"Calle Santo Tomás, 17 41004 Seville Spain",+34674366331
+569,Taberna Azalea I,"Spanish, Tapas Bars, Tabernas",€,4.0,2,"Avenida Luis Montoto, 23 41018 Seville Spain",+34954538746
+570,Mr Beer,"Beer Bar, Breakfast & Brunch",€,4.0,3,"Calle de Vermondo Resta, s/n 41018 Seville Spain",+34954655851
+571,Pando Centro,Tapas Bars,€€,3.5,12,"Calle San Eloy, 47 41001 Seville Spain",+34954221625
+572,Wasabi,"Sushi Bars, Japanese",€€,4.0,8,"Calle Amor de Dios, 42 41002 Seville Spain",+34955278015
+573,Mediterráneo,Mediterranean,€€€,4.0,2,"Calle Arguijo, 3 41003 Seville Spain",+34954217018
+574,A Lembranza,"Wine Bars, Galician, Tapas Bars",€€,4.5,5,"Calle Hernando del Pulgar, 16 41007 Seville Spain",+34608063674
+575,La Mesa de Jabugo,"Tapas Bars, Pubs",empty,4.0,3,Calle José Marìa Moreno Galván 41003 Seville Spain,+34630674692
+576,Kaede,"Japanese, Sushi Bars, Asian Fusion",€€,3.5,14,"Calle San Juan de Ribera, 2 41009 Seville Spain",+34954373518
+577,Vinos y Tapas La Estación,Spanish,€,4.0,2,"Avenida de Cádiz, 33 41004 Seville Spain",+34954414881
+578,Antípodas,Tapas Bars,€,4.0,4,"Calle Fuenteovejuna, 13 41018 Seville Spain",
+579,El Balcon de las Setas,Spanish,empty,4.0,5,"Plaza de la Encarnación, s/n 41003 Seville Spain",+34955097101
+580,Sevilla-Cádiz,"Tapas/Small Plates, Tapas Bars",€,4.5,2,"Avenida de Cádiz, 15 41004 Seville Spain",+34954423058
+581,El Burladero,Spanish,empty,4.5,7,"Calle Canalejas, 1 41001 Seville Spain",+34954505599
+582,Las Casas de los Mercaderes,"Breakfast & Brunch, Tapas Bars",€€,3.5,7,"Calle Alvarez Quintero, 9 41004 Seville Spain",+34954218560
+583,Sol y Sombra,Tapas Bars,€€,4.5,8,"Calle Castilla, 151 41010 Seville Spain",+34954333935
+584,IKEA,"Furniture Stores, Cafeteria",€€,4.0,28,"Calle de la Virgen de Loreto, 45 41950 Castilleja de la Cuesta Spain",+34902400922
+585,Centro Cultural Ferroviario,Steakhouses,empty,5.0,4,"Calle Pueblo Saharaui, 2 41008 Seville Spain",+34954533039
+586,El Convento,"Cafeteria, Breakfast & Brunch",€,4.0,1,"Plaza de San Agustín, 13 41003 Seville Spain",
+587,Lartesana,"Beer Bar, Tapas Bars",€,3.5,7,"Calle Recaredo, 35 41003 Seville Spain",+34685874430
+588,Metáforas,"Cafeteria, Cultural Center",€,4.5,4,"Calle Mata, 20 41002 Seville Spain",+34645579137
+589,Cibeles II,"Tapas Bars, Spanish",€,4.0,8,"Calle Justino Matute, 12 41010 Seville Spain",+34954341251
+590,Ginos,Italian,€€,4.0,9,"Avenida República Argentina, 23-25 41011 Seville Spain",+34955571009
+591,Cortadero,Tapas Bars,empty,5.0,1,Calle menendez pelayo 41003 Seville Spain,+34675392368
+592,Petarda Manuela,Tapas Bars,€€,5.0,4,"Calle Lumbreras, 38-40 41002 Seville Spain",
+593,Manu Jara,"Desserts, Cafeteria, Bakeries",€,4.5,4,"Calle Benito Mas y Prat, s/n 41005 Seville Spain",+34954098528
+594,Banzai,Japanese,€€€,3.5,3,"Calle José Gestoso, 3 41003 Seville Spain",+34955549400
+595,Casa Matias,"Bars, Tapas Bars",€,4.0,4,"Calle Arfe, 11 41001 Seville Spain",
+596,Taberna de Nervión,"Tapas Bars, Spanish, Tabernas",€,3.5,14,"Calle Marqués de Nervión,116 41005 Seville Spain",+34954657867
+597,Jota,"Bars, Tapas Bars, Cafeteria",€,3.5,14,"Calle de Luis de Montoto, 52 41018 Seville Spain",+34954530871
+598,Seis,Tapas Bars,empty,5.0,3,"Plaza Nueva, 7 41001 Seville Spain",+34955440030
+599,La Tradicional,"Spanish, Tapas Bars, Bars",€€,2.5,14,"Calle Mateos Gago, 7 41004 Seville Spain",+34628479950
+600,Bulebar Café,"Breakfast & Brunch, Cafeteria, Tapas Bars",€,3.5,8,"Alameda de Hércules, 83 41002 Seville Spain",+34955294212
+601,Taberna de D. José Yebra,Tabernas,€,4.5,3,"Calle de los Boteros, 33 41004 Seville Spain",
+602,Reina Victoria,"Spanish, Fish & Chips",€€,4.0,8,"Calle Rodrigo de Triana, 51 41010 Seville Spain",+34954335047
+603,El Kiki II,"Tapas Bars, Food",€,3.5,5,"Calle Esperanza de la Trinidad, 1 41003 Seville Spain",+34954421109
+604,Los Ángeles,"Desserts, Spanish, Bakeries",€,3.0,9,"Calle  Adriano, 2 41001 Seville Spain",+34954228146
+605,Sushi 81,"Japanese, Sushi Bars",€,4.0,11,"Calle Esperanza de Triana, 20 41010 Seville Spain",+34955381251
+606,Queen Kebab,"Turkish, Kebab",€,4.0,3,"Calle Recaredo, 22 41003 Seville Spain",+34955512590
+607,Akela,Tapas Bars,€€,4.0,10,"Plaza del Altozano, 5 41010 Seville Spain",
+608,May Brunch,Breakfast & Brunch,empty,5.0,2,"Calle Rivero, 7 41004 Seville Spain",+34662244850
+609,La Barrica Dulce,"Wine Bars, Andalusian, Beer Bar",€,4.5,4,"Calle Relator, 91 41003 Seville Spain",+34653013795
+610,Europa,"Tapas Bars, Beer Bar, Modern European",€,3.5,18,"Calle Benito Mas y Prat, 5 41005 Seville Spain",+34954577353
+611,Buoni Forno di Pizze,"Italian, Pizza",€,4.5,2,"Calle Regina, 1 41003 Seville Spain",
+612,Charlatán,"Tapas Bars, Spanish",€€,5.0,2,"Calle Arfe, 11 41001 Seville Spain",+34954227415
+613,Lola Cazerola,Spanish,€€,3.5,7,"Calle Castilla, 36 41010 Seville Spain",+34670665680
+614,Casa Joaquín,"Breakfast & Brunch, Tapas Bars",empty,4.0,4,"Calle Puñonrostro, 4 41003 Seville Spain",+34645863788
+615,Las Palomas,"Desserts, Bakeries, Coffee & Tea",€,4.5,10,"Calle Evangelista, 34 41010 Seville Spain",+34954335798
+616,Parrilla Andaluza,Mediterranean,€€,3.5,5,"Calle Luis de Morales, 24 41018 Seville Spain",+34954541011
+617,Santa Marina,Tapas Bars,empty,4.5,4,"Calle San Luis, 60 41003 Seville Spain",
+618,Alboroque,"Tapas/Small Plates, Tapas Bars, Spanish",€€,4.0,9,"Calle Pagés del Corro, 107 41010 Seville Spain",+34954341139
+619,Grana y Oro,Tapas Bars,€,4.0,4,"Calle Niebla, 27 41011 Seville Spain",+34954271863
+620,Badulaque,"Pizza, Spanish, Steakhouses",€,3.5,16,"Alameda de Hércules, 54 41002 Seville Spain",+34954908268
+621,La Niña de la Florida,Fish & Chips,€€,4.0,4,"Calle Amador de los Ríos, 1 41003 Seville Spain",+34677273942
+622,Mesón Los Gallegos,"Cafeteria, Tapas Bars",€,4.0,4,"Capataz Rafael Franco, 1 41002 Seville Spain",+34954214011
+623,La Gran Muralla,Chinese,€,3.5,9,"Carretera de Carmona, 32 41008 Seville Spain",+34954378268
+624,Bilio's,"Fast Food, Burgers, Pizza",€,3.5,36,"Avenida de la Innovación, 3 41020 Seville Spain",+34954260202
+625,O'Tapas Albahaca,"Tapas Bars, Spanish, Tabernas",€,3.5,14,"Calle Pagés del Corro, 119 41010 Seville Spain",+34954274163
+626,Bocao,"Pubs, Gastropubs",€,4.5,2,"Calle Recaredo, 14 41003 Seville Spain",+34955540947
+627,Bar Rodriguez,Tapas Bars,€,4.0,5,"Calle San Vicente, 76 41002 Seville Spain",+34954387354
+628,La María,"Breakfast & Brunch, Bakeries",€€,4.5,4,"Calle Cuna, 33 41004 Seville Spain",+34677264084
+629,La Tata,"Spanish, Modern European, Gastropubs",€€,4.0,20,"Calle Avión de Cuatro Vientos, 15 41013 Seville Spain",+34954649098
+630,La Madriguera de Mai,"Tapas/Small Plates, Breakfast & Brunch",€,4.5,3,"Calle Arrayán, 23 41003 Seville Spain",+34640348342
+631,Juan Sánchez Chico,Mediterranean,€,4.0,1,"Calle López de Vega, 1 41003 Seville Spain",+34954421454
+632,La Galantina,Spanish,empty,3.5,7,"Avenida de Menéndez Pelayo, 20 41004 Seville Spain",+34954532313
+633,Ochoa,"Desserts, Bakeries, Cafeteria",€€,2.5,15,"Calle Sierpes, 45 41004 Seville Spain",+34954228223
+634,Bodegón San Vicente,"Spanish, Tapas Bars",€,4.0,6,"Calle Virgen de Luján, 45 41012 Seville Spain",+34954452892
+635,Bodega El Estribo,"Tapas Bars, Spanish",€,4.0,4,"Calle Sinaí, 34 41007 Seville Spain",+34954574772
+636,Casa Ruiz,Tapas Bars,€€,4.0,6,"Calle Francos, 59 41004 Seville Spain",+34954425505
+637,"Brunchit - Sevilla, Feria","Coffee & Tea, Breakfast & Brunch, Patisserie/Cake Shop",empty,4.0,4,"Feria, 83 41002 Seville Spain",+34854809002
+638,Mama Bistro,Mediterranean,€€,4.5,17,"Calle Mateos Gago, 9 41004 Seville Spain",+34954227309
+639,La Primera del Puente,"Seafood, Spanish, Bars",€,3.0,14,"Calle Betis, 66 41010 Seville Spain",+34954276918
+640,Chile,"Pubs, Breakfast & Brunch, Coffee & Tea",€€,3.5,7,"Paseo de las Delicias, s/n 41013 Seville Spain",+34954230344
+641,Chic&Ole,"Spanish, Venues & Event Spaces, Cocktail Bars",empty,4.0,2,"Calle Rodrigo Caro, 11 41004 Seville Spain",+34955418346
+642,La Cruz Blanca,Tapas Bars,€€,3.5,9,"Calle Luis de Morales, S/N 41018 Seville Spain",+34954414635
+643,Rincon De Rosita,"Tapas Bars, Spanish",€€,4.5,6,"Calle Becquer, 9 41002 Seville Spain",+34954385221
+644,Casa Ruiz,"Spanish, Tapas Bars",€€,4.5,6,"Avenida Carlos de Cepeda, 4 41005 Seville Spain",+34954641727
+645,Maskalata,"Gastropubs, Tapas Bars, Spanish",€,4.0,3,"Avenida de la Buhaira, 17 41018 Seville Spain",+34955112553
+646,La Taberna del Dragón Verde,"Pubs, Tabernas",€,4.5,13,"Calle Avicena, 17 41009 Seville Spain",+34954906361
+647,Atelier,"Beer Bar, Pizza, Tapas Bars",€€,4.0,3,"Calle Balbino Marrón, s/n 41018 Seville Spain",+34954661330
+648,La Tapatería,"Spanish, Tapas Bars, Sandwiches",€,4.0,4,"Calle Santa Maria la Blanca, 7 41004 Seville Spain",
+649,Porta Gayola,"Spanish, Tapas Bars",€€€,4.5,3,"Calle Barcelona, 5 41001 Seville Spain",+34954222875
+650,Avelino,Tapas Bars,€,4.5,20,"Plaza de los Andes, s/n 41012 Seville Spain",+34954610489
+651,La Raza Seises,Spanish,empty,4.0,3,"Calle Don Remondo, 2 41004 Seville Spain",+34954224505
+652,Las Rehoyas,Tapas Bars,€€,4.0,4,"Avenida San Francisco Javier, 3 41005 Seville Spain",+34956903686
+653,La Catedral de la Tapa,"Salad, Bars, Seafood",€,5.0,1,"Calle General Polavieja, 3 41004 Seville Spain",+34955038800
+654,Carnal,Mexican,empty,5.0,4,"Calle Gamazo, 4 41001 Seville Spain",
+655,La Barrila,"Tapas Bars, Coffee & Tea",€,3.5,5,Estación de Santa Justa S/N 41007 Seville Spain,+34954532930
+656,El Fullero,"Gastropubs, Spanish",empty,5.0,4,"Calle Calderón de la Barca, 7 41003 Seville Spain",+34625910771
+657,Gonzalo Molina,"Spanish, Dive Bars",€,4.0,6,"Calle Relator, s/n 41002 Seville Spain",
+658,Casa Cuesta Centro,Restaurants,empty,5.0,2,c/ Zaragoza 50 41001 Seville Spain,+34954333335
+659,Cuna 2,"Spanish, Mediterranean",€€€,4.0,3,"Calle Cuna, 2 41004 Seville Spain",+34954211107
+660,La Alacena de San Eloy,"Tapas/Small Plates, Meat Shops",€,3.0,7,"Calle San Eloy, 31 41001 Seville Spain",+34954215580
+661,Almansa,Spanish,€€€,4.0,5,"Calle Zaragoza, 48 41001 Seville Spain",+34954105174
+662,Café Bar Sur,"Arts & Entertainment, Tapas Bars, Pubs",€,4.5,2,"Calle Carlos Cañal, 5 41001 Seville Spain",+34954561191
+663,Coliseo,Spanish,€€,3.5,3,"Calle Almirante Lobo, 17 41001 Seville Spain",+34954218430
+664,Puerta del Sol,Tapas Bars,€,4.0,3,"Calle Sol, 67 41003 Seville Spain",+34955326830
+665,Tigris,Moroccan,€€,3.5,2,"Calle San Esteban,15 41003 Seville Spain",
+666,El Manijero,Spanish,€€,4.0,2,"Calle Trastamara,15 41001 Seville Spain",+34954221740
+667,Amara Restaurant,"Spanish, Signature Cuisine",empty,5.0,2,"Calle Zaragoza, 18 41001 Seville Spain",+34620164872
+668,La Sureña,"Spanish, Tapas Bars, Beer Bar",€,3.0,8,"Avenida de la Buhaira, 17 41018 Seville Spain",+34955138853
+669,Casa Palacios,"Tapas Bars, Delicatessen",€,4.0,6,"Calle Porvenir, 4 41013 Seville Spain",+34954231132
+670,Domino's Pizza,Pizza,€,3.5,13,"Calle Ronda de Capuchinos, 2 41003 Seville Spain",+34954421501
+671,El Arenal,"Spanish, Fish & Chips",empty,4.5,3,"Calle de Arfe, 8 41001 Seville Spain",+34954222018
+672,Catunambú,"Dive Bars, Breakfast & Brunch, Coffee & Tea",€,3.5,10,"Calle Sierpes, 10 41004 Seville Spain",+34954219421
+673,Rio Bravo,Mexican,€€,3.0,5,"Plaza de la Encarnacion, 15 41003 Seville Spain",+34954212464
+674,Mesón Las Torres,"Tapas/Small Plates, Spanish, Tapas Bars",€,4.0,9,"Calle Estrella Canopous, 27 41015 Seville Spain",+34677258006
+675,Leños,"Steakhouses, Colombian",empty,4.0,1,"Plaza de la Caña, 52 Pol. San Pablo 41007 Seville Spain",+34600272755
+676,Pata Negra,Tapas Bars,€,4.0,1,"Calle Caños de Carmona, 5 41003 Seville Spain",
+677,Goiko Grill,Burgers,empty,4.5,2,"Calle Albareda, 14 41001 Seville Spain",+34955286141
+678,Club Foodies,"Spanish, Signature Cuisine",€€€,5.0,1,"Gracia Fernández Palacios, 3 41001 Seville Spain",+34955223520
+679,Jaylu,"Seafood, Spanish",€€€,4.5,6,"López de Gomara, 19 41010 Seville Spain",+34954341525
+680,La Molona,Tapas Bars,€,3.5,7,"Calle San Pablo, 17 41001 Seville Spain",
+681,Jaime Alpresa,"Spanish, Tapas Bars",€€€,4.0,3,"Calle Adriano, 16 41002 Seville Spain",+34955029995
+682,Bodega San Lorenzo,Tapas Bars,€€,4.0,5,"Calle de Juan Rabadán, 5 41002 Seville Spain",+34954384757
+683,DeÓ - Los Remedios,Tapas Bars,€€,3.5,7,"Calle Virgen del Valle, 10 41011 Seville Spain",+34955193809
+684,A Banda,"Spanish, Mediterranean",€€,4.0,4,"Calle Presidente Cárdenas, 4 41013 Seville Spain",+34954094579
+685,Puerta Oro,"Spanish, Cafeteria",€,5.0,1,"Calle Almirante Lobo, 10 41001 Seville Spain",+34954227215
+686,Taberna el Papelón,"Spanish, Tabernas",€€,4.0,5,"Calle San Jacinto, 14 41010 Seville Spain",
+687,La Pajarita,"Tapas Bars, Mediterranean",€€,3.5,8,"Calle Baños, 16 41002 Seville Spain",+34954382057
+688,El Rincón del Tito,"Tapas Bars, Spanish",€,3.5,4,"Calle de las Escuelas Pías, 10 41003 Seville Spain",+34954225153
+689,Monte Sión,"Bakeries, Cafeteria",€,4.0,5,"Calle Feria, 148 41002 Seville Spain",+34954370248
+690,Bicho Malo,"Tapas/Small Plates, Spanish",€€,5.0,3,"Calle Callao, 5 41010 Seville Spain",+34625819934
+691,Pizzatta,"Italian, Pizza",empty,4.5,2,"Calle Mateos Gago, 13 41004 Seville Spain",+34656193241
+692,Entrevarales,"Spanish, Tapas Bars, Cafeteria",€,4.0,3,"Calle San Felipe, 11 41003 Seville Spain",+34954561355
+693,La Auténtica,"Spanish, Tapas Bars",€,3.5,2,"Calle Puerta de la Carne, 8 41020 Seville Spain",+34955386652
+694,McDonald's,"Fast Food, Burgers",€,3.5,7,"Calle de la Campana, 5 41002 Seville Spain",+34954226483
+695,Al-Andalus,"Spanish, Tapas Bars",€,4.0,14,"Calle Vicente Flores Navarro, 18 41010 Seville Spain",+34954001202
+696,Colón 5,Spanish,€€,4.5,3,Paseo de Cristobal Colon 41001 Seville Spain,
+697,Bar Plata,"Spanish, Mediterranean",€€,3.5,10,"Calle Resolana, 2 41009 Seville Spain",+34696120191
+698,G. Hijón,"Spanish, Tapas Bars, Coffee & Tea",€€,3.5,6,"Ronda de Capuchinos, 2 41003 Seville Spain",+34954417731
+699,Merlot & Albariño,"Spanish, Signature Cuisine",€€,5.0,1,"Calle Puerta de la Carne, 6 41004 Seville Spain",+34954415731
+700,Nishibi,Sushi Bars,€€,4.0,2,"Calle Harinas, 13 41001 Seville Spain",+34954023277
+701,McDonald's,"Fast Food, Burgers",€,3.5,7,"Calle de la Campana, 5 41002 Seville Spain",+34954226483
+702,Al-Andalus,"Spanish, Tapas Bars",€,4.0,14,"Calle Vicente Flores Navarro, 18 41010 Seville Spain",+34954001202
+703,Colón 5,Spanish,€€,4.5,3,Paseo de Cristobal Colon 41001 Seville Spain,
+704,Bar Plata,"Spanish, Mediterranean",€€,3.5,10,"Calle Resolana, 2 41009 Seville Spain",+34696120191
+705,G. Hijón,"Spanish, Tapas Bars, Coffee & Tea",€€,3.5,6,"Ronda de Capuchinos, 2 41003 Seville Spain",+34954417731
+706,La Bolera,Tapas Bars,€,2.0,4,"Avenida de Menéndez Pelayo, 49 41003 Seville Spain",
+707,Abok2,"Vegetarian, Vegan",empty,5.0,4,"Calle Murillo, 8 41001 Seville Spain",+34625612372
+708,Merlot & Albariño,"Spanish, Signature Cuisine",€€,5.0,1,"Calle Puerta de la Carne, 6 41004 Seville Spain",+34954415731
+709,Nishibi,Sushi Bars,€€,4.0,2,"Calle Harinas, 13 41001 Seville Spain",+34954023277
+710,Bodega Paco Góngora,"Tapas Bars, Spanish",€,3.5,5,"Calle Padre Marchena, 1 41001 Seville Spain",+34954214139
+711,La Tasca del Frijolito,Mexican,€€,3.5,10,"Calle Torneo, 19 41002 Seville Spain",+34954379140
+712,Atahualpa,"Argentine, Steakhouses",€€,4.0,5,"Calle Salado, 9 41010 Seville Spain",+34954277712
+713,Corto Maltés,"Pubs, Coffee & Tea",€,4.0,8,"Alameda de Hércules, 66 41002 Seville Spain",+34954380471
+714,Taberna de Triana,"Tapas Bars, Spanish",€,4.5,7,"Calle Rodigo de Triana, 4 41010 Seville Spain",+34954331526
+715,La Cepa,"Tapas/Small Plates, Tapas Bars",€,4.0,4,"Calle San José, 28 41004 Seville Spain",+34954229206
+716,La Rayuela,"Mediterranean, Spanish, Tapas Bars",€€,3.5,3,"Calle Miguel Mañara, 9 41004 Seville Spain",+34670807488
+717,Boga Gourmet,Tapas Bars,€€,4.0,1,"Calle Reyes Católicos, 29 41001 Seville Spain",+34658842232
+718,Liceo Triana,"Spanish, Bars, Tapas Bars",€,3.5,8,"Plaza del Altozano, 9 41010 Seville Spain",+34955235718
+719,MásMontaíto,"Tapas Bars, Sandwiches",€,4.5,5,"Calle Virgen de la Cinta, 15 41011 Seville Spain",+34675078093
+720,San Fernando,"Tapas Bars, Cafeteria",€,3.5,5,"Calle San Fernando, 21 41004 Seville Spain",
+721,Babel,"Pubs, Spanish",€,4.0,3,"Paseo Cristóbal Colón, 4 41001 Seville Spain",
+722,Roger's Chicken,Rotisserie Chicken,€€,4.5,4,"Calle Playa de Valdelagrana, 6 41009 Seville Spain",+34955110504
+723,El Portón,Tapas Bars,€,3.5,4,"Calle General Polavieja, 20 41001 Seville Spain",+34954214072
+724,Sur,"Signature Cuisine, Bars",€€,4.5,6,"Avenida de Ramon Carande, 10 41013 Seville Spain",+34954614812
+725,Sierra de Sevilla,Spanish,€€,3.5,2,"Calle Joaquín Guichot, 5 41001 Seville Spain",+34954561210
+726,Casa Remesal,"Tapas Bars, Spanish, Seafood",€,3.0,9,"Calle Pureza, 64 41010 Seville Spain",+34608615846
+727,Abacería Los Patios,Tabernas,€,4.5,2,"Alvarez Quintero, 60 41004 Seville Spain",
+728,Biergarden Triana,"Beer Bar, Tabernas",€,4.5,3,"Plaza del Altozano s/n Mercado de Triana, puesto 36 41010 Seville Spain",+34692047045
+729,Kiyo,"Japanese, Sushi Bars",€€,4.5,2,"Calle Juan Antonio Cavestany, 33 41003 Seville Spain",
+730,La Jama,Sandwiches,€,5.0,1,"Plaza San Leandro, 10 41003 Seville Spain",+34633232069
+731,Bodega Puente,"Tapas Bars, Wine Bars",€,3.5,3,"Calle Alejo Fernández, 4 41003 Seville Spain",+34954425686
+732,Ignacio Vidal,"Mediterranean, Spanish, Moroccan",€€,3.5,3,"Calle Canalejas, 2 41001 Seville Spain",+34954228452
+733,Corral de Esquivel,"Breakfast & Brunch, Tapas Bars, Pubs",€,3.5,14,"Alameda de Hércules, 39 41002 Seville Spain",+34685990141
+734,Bar Bocaito,"Cafeteria, Tapas Bars",€,4.0,4,"Avenida de Luis de Morales, 24 41018 Seville Spain",+34954092241
+735,Bodega Vargas,"Dive Bars, Spanish, Tapas Bars",€€,4.0,7,"Calle Rodrigo de Triana, 8 41010 Seville Spain",+34657184050
+736,Blossom,"Spanish, Bars",empty,4.5,4,"Alameda de Hércules, 32 41002 Seville Spain",+34955648989
+737,Maskalata,Tapas Bars,empty,4.5,2,"Calle Odreros, 1 41004 Seville Spain",
+738,El Pasaje Tapas,Tapas Bars,empty,4.0,2,"Pasaje de Vila, 6 41004 Seville Spain",+34954227447
+739,Dueñas,Tapas Bars,€,3.5,5,"Calle Gerona, 1 41003 Seville Spain",+34954215941
+740,Al Cartuchito,"Wine Bars, Tabernas",€,4.0,2,"Calle Perez Galdos, 34 41004 Seville Spain",+34677752393
+741,Grupo Spala,"Spanish, Cafeteria, Tapas Bars",€,2.5,11,"Calle Imagen, 8 41003 Seville Spain",+34954210353
+742,Granier,"Desserts, Cafeteria, Bakeries",€,3.0,7,"Calle Imagen, 5 41003 Seville Spain",
+743,Hermanos Luna,"Tapas Bars, Spanish, Kebab",€,4.0,11,"Calle Ixbilia, 5 41907 Camas Spain",+34955981080
+744,La Gitana Loca,"Spanish, Gastropubs",empty,4.0,1,"Cuesta del Rosario, 8 41004 Seville Spain",+34955237020
+745,Zhen Bao,Dim Sum,€,4.0,6,"Calle Esperanza de Triana, 51 41010 Seville Spain",+34954285340
+746,Metropolitan,"Spanish, Coffee & Tea, Beer Bar",€,4.5,4,"Calle Dr. Fedriani, 25 41009 Seville Spain",+34854800732
+747,Papanatas,Spanish,€,4.5,4,"Calle Marques de Paradas, 43 41001 Seville Spain",
+748,Nuria,Spanish,€,2.5,7,"Avenida de Malaga, 1 41004 Seville Spain",+34954423460
+749,La Alpargata,"Tapas Bars, Spanish",€,3.5,8,"Calle Virgen de Aguas Santas, s/n 41011 Seville Spain",+34603448494
+750,Quitapesares,Tapas Bars,€,3.5,6,"Plaza del Padre Jerónimo de Córdoba, 3 41003 Seville Spain",+34954229385
+751,Restaurante Ignacio Vidal,"Spanish, Tapas Bars",€€,4.0,13,"Calle Progreso, 27 41013 Seville Spain",+34954616496
+752,Café de Mayo,"Coffee & Tea, Breakfast & Brunch",€,4.0,4,"Calle Amor de Dios, 7 41002 Seville Spain",
+753,Zipi y Zape,Spanish,€,4.0,1,"Calle Jose Maria Moreno Galvan, s/n Seville, Sevilla Spain",
+754,Ginos,Italian,€€,3.0,5,"Calle Luis de Morales, 3 41005 Seville Spain",+34955571068
+755,Sancho Panza,Tapas Bars,€€,4.5,5,"Calle Sebastian Elcano, 19 41011 Seville Spain",+34954277452
+756,King Do Lite,"Dim Sum, Pan Asian",€€,4.5,3,"Avenida de Miraflores, 95 41008 Seville Spain",+34692636539
+757,Los Castaños,"Breakfast & Brunch, Tapas Bars, Spanish",€,4.0,1,"Calle Alcalde Isacio Contreras, 1 41003 Seville Spain",
+758,Amanecer,Mexican,€€,3.5,10,"Calle Juan Pablos, 2 41013 Seville Spain",+34954239438
+759,Salomon,"Tapas Bars, Bars",€,4.0,16,"Calle López de Gomara, 11 41010 Seville Spain",+34954333521
+760,El Algabeño,Tapas Bars,€,4.0,4,"Calle Arrayán, 2 41002 Seville Spain",+34610722955
+761,Casa Diego,Tapas Bars,€,4.5,6,"Calle Alfarería, 5 41010 Seville Spain",+34954340612
+762,Taberna Berrocal,"Spanish, Tapas Bars",€€,3.5,5,"Calle Moratín, 6 41001 Seville Spain",+34954228990
+763,Tino,Spanish,€,5.0,2,"Calle Tarifa, 11 41002 Seville Spain",+34954229836
+764,El Sanedrín,"Beer Bar, Tapas Bars",€€,5.0,2,Plaza de la Gavidia 6 41002 Seville Spain,+34954906984
+765,Escuela de Hostelería Gambrinus,"Beer Bar, Gastropubs, Tapas Bars",empty,4.0,3,"Avenida de Andalucía, 1 41007 Seville Spain",+34954979801
+766,Pomodoro,Italian,€,3.0,14,"C. C. Viapol Center Cros Pirotecnia, s/n Seville, Sevilla Spain",+34954536865
+767,Doña Francisquita,"Tapas Bars, Spanish, Cafeteria",€€€,3.0,13,"Calle Alvarez Quintero, 43 41004 Seville Spain",+34954213150
+768,Piano Piano,Italian,empty,5.0,2,"Calle Almirante Lobo, 5 41001 Seville Spain",+34955673740
+769,Don Camillo e Peppone,"Pizza, Italian, Spanish",empty,3.0,7,"Calle Betis, 33 41010 Seville Spain",+34607630777
+770,La Crisis,Tapas Bars,€,4.0,4,"Calle Tharsis, 1 41008 Seville Spain",
+771,Patio San Eloy,"Spanish, Tapas Bars",€,3.0,5,"Calle Alhondiga, 14 41003 Seville Spain",+34954501070
+772,3 Sevilla,"Bars, Restaurants, Venues & Event Spaces",€€,4.5,2,"Calle Gracia Fernandez Palacios, 3 41001 Seville Spain",+34678835644
+773,Alameda Rock,"Vegan, Tapas Bars, Tabernas",€,4.0,7,"Calle Crédito, 20 41002 Seville Spain",+34687066422
+774,Melior,"Tapas Bars, Breakfast & Brunch, Cocktail Bars",€,4.5,3,"Calle Pdte Cárdenas, 10 41013 Seville Spain",+34626478691
+775,Taberna El Papelón,"Spanish, Tabernas",€€,3.5,10,Av Reyes Católicos 41001 Seville Spain,
+776,Coli,Spanish,€,4.0,3,"Calle Aznalcázar, 2 41005 Seville Spain",+34954652380
+777,Atticus Finch,"American (Traditional), Burgers",empty,4.5,4,"Calle de Feria, 98 41003 Seville Spain",+34639672014
+778,La Doma,Tapas Bars,empty,4.5,3,"Avenida Eduardo Dato, 40 41005 Seville Spain",+34954095787
+779,Santoyo,"Tapas Bars, Coffee & Tea",€€,3.5,5,"Calle San Juan Bosco, 6 41008 Seville Spain",+34954316204
+780,Baco,Spanish,empty,4.5,3,"Calle Cuna, 2 41004 Seville Spain",
+781,Otaola,"Arroceria / Paella, Tapas Bars",€€,4.5,3,"Calle San Salvador, 18 41013 Seville Spain",+34661046602
+782,La Casa Fundida,Spanish,€€,4.0,8,"Plaza del Altozano, s/n Mercado De Triana Puesto 46 41010 Seville Spain",+34656557560
+783,Coffee Corner,"Cafeteria, Beer Bar",€,3.5,12,"Calle Jose Recuerda Rubio, 1 41018 Seville Spain",+34954923201
+784,La Espumita - Vitrubio,Spanish,€,3.5,4,"Calle Gonzalo Bilbao, 4 41003 Seville Spain",+34954536244
+785,Robles Placentines,"Tapas/Small Plates, Spanish",€,2.5,7,"Calle Placentines, 2 41004 Seville Spain",+34954213150
+786,Harinas,Spanish,empty,5.0,1,"Calle Harinas, 13 41016 Seville Spain",+34955515360
+787,La Baronesa,"Bars, Tapas Bars",€,4.0,5,"Calle Esperanza de Triana, 23 41010 Seville Spain",+34630173580
+788,La Sevillanía,Tapas Bars,€,3.5,6,"Calle José de Velilla, 14 41001 Seville Spain",+34646082199
+789,Mesón de Juan,"Spanish, Tapas Bars",€€,4.5,3,"Calle Jose Luis de Casso, 72 41005 Seville Spain",+34954581848
+790,Benjamín Martín,Tapas Bars,€,4.5,6,"Calle Cruz, 13 41013 Seville Spain",+34954231108
+791,Lagares,"Tapas Bars, Wine Bars",€€,4.5,7,"Glorieta el Garrotal, 10 41940 Tomares Spain",+34678201964
+792,Pizzería Carlos,"Italian, Pizza",€,3.5,3,"Calle Jose Maria Moreno Galvan, 2 41003 Seville Spain",+34954701701
+793,M. Morales,Tapas Bars,€,5.0,5,"Calle Hespérides, s/n 41008 Seville Spain",+34954431899
+794,La Rosaleda,"Spanish, Tapas Bars, Dive Bars",€,4.5,5,"Calle José María de Mena, s/n 41008 Seville Spain",+34954062379
+795,La Cueva,Spanish,€€,2.5,10,"Calle Rodrigo Caro, 18 41004 Seville Spain",+34954562980
+796,La Taberna de La Dehesa,"Beer Bar, Tabernas",€€€,4.0,4,"Calle Luis de Morales, 2A 41018 Seville Spain",+34954576204
+797,Charlotte,"Pubs, Tapas Bars",€€,3.5,3,"Calle Luís Arenas Ladislao, 151 41005 Seville Spain",+34954572118
+798,Cervecería Martín Blanco,"Tapas Bars, Spanish, Steakhouses",€€,3.5,8,"Avenida San Francisco Javier, 15 41005 Seville Spain",+34954646512
+799,La Santa,"Bars, Barbeque",€€,3.5,2,"Calle Regina, 4 41003 Seville Spain",+34663331022
+800,La Pastora,"Spanish, Tapas Bars, Fish & Chips",€€,4.0,5,"Calle Muñoz León, s/n 41009 Seville Spain",+34652682304
+801,La Carboná,Tapas Bars,€€,3.5,3,Plaza de San Leandro 2 41003 Seville Spain,
+802,Nickel,Burgers,empty,5.0,1,"Calle López de Arenas , 4 41001 Seville Spain",+34854802187
+803,Manjarex,"Tapas Bars, Mediterranean",€,2.5,7,"Calle Almirantazgo, 8 41001 Seville Spain",+34954225323
+804,Volapie,"Tapas Bars, Spanish",empty,5.0,1,"Calle Martin Villa, 3 41003 Seville Spain",+34954564860
+805,Tapas Viapol Center,"Spanish, Signature Cuisine, Tapas Bars",€,3.5,7,"Calle Pirotecnia, 1 41013 Seville Spain",+34954537300
+806,Ferretti,"Ice Cream & Frozen Yogurt, Coffee & Tea",empty,3.5,3,"Avenida de la Constitución, 13 41004 Seville Spain",+34954564142
+807,Bonifaz,Spanish,€,4.5,6,"Plaza de Vicente Aleixandre, 21 41013 Seville Spain",+34954092277
+808,Santa Ana,"Spanish, Tapas Bars, Tapas/Small Plates",€,3.5,11,"Calle de Pureza, 82 41010 Seville Spain",+34954272102
+809,Gran Tino,Tapas Bars,€,3.0,11,"Plaza de la Alfalfa, 12 41004 Seville Spain",+34954210883
+810,Galería Taberna Ánima,"Art Galleries, Tapas Bars",€€,4.5,7,"Calle Miguel Cid, 80 41002 Seville Spain",+34954386708
+811,Poncio,"Spanish, Tabernas",€,5.0,1,"Carrer de Ximenez de Enciso, 33 41004 Seville Spain",+34954460717
+812,La Taberna Sevillana,Tabernas,empty,4.5,3,"Calle Puñonrostro, 2 41003 Seville Spain",
+813,El Candil,Diners,€€,4.5,2,"Calle Paraíso, 3 41010 Seville Spain",+34954274784
+814,La Atalaya,Andalusian,empty,5.0,1,"Calle Manuel Bermudo Barrera, 1 41004 Seville Spain",+34955606019
+815,El Kiki,Tapas Bars,€,3.0,9,"Calle Juan Antonio Cabestany, 15 41003 Seville Spain",+34954542903
+816,Cervecería 100 Montaditos,Spanish,€,4.0,1,"Calle Balbino Marrón, s/n 41018 Seville Spain",+34954639760
+817,Patatas Queen,Fast Food,€,3.5,3,"Plaza del Salvador Calle Álvare Quintero, 8 41004 Seville Spain",+34954210421
+818,La Paella,Arroceria / Paella,€,3.5,8,"Calle Albuera, 11 41001 Seville Spain",+34954008067
+819,Torito Rojo,Spanish,€€,4.0,2,"Calle Hernando Colón, 12 41004 Seville Spain",+34615868138
+820,Aguilar,Tapas Bars,€,4.0,4,"Alameda de Hércules, 59 41002 Seville Spain",
+821,La Tahona,"Desserts, Bakeries, Coffee & Tea",€,3.5,9,"Avenida Luis de Morales, 30 41018 Seville Spain",+34954541263
+822,Centro Cultural Junta del Puerto,Spanish,empty,5.0,1,"Calle Tarifa, s/n 41002 Seville Spain",
+823,Andiamo,"Pizza, Italian",empty,5.0,1,"Calle Zaragoza, 6 41001 Seville Spain",+34955542248
+824,Barajas 20 Tapas,Tapas Bars,empty,5.0,2,"Gourmet Experience Plaza del Duque de la Victoria, 8 41002 Seville Spain",+34954904796
+825,Charlotte,"Bars, Tapas Bars",€€,3.5,7,"Calle San Jacinto, 66 41010 Seville Spain",
+826,Foster's Hollywood,"American (Traditional), Burgers",€€,3.5,5,"Avenida de Andalucía, s/n 41007 Seville Spain",+34954677850
+827,Palacio Oriental,Chinese,€€,4.0,4,"Calle Jesús del Gran Poder, 63 41002 Seville Spain",+34954372279
+828,Telepizza,Pizza,€€,4.0,2,"Calle Muñoz Leon, 13 41009 Seville Spain",+34954902727
+829,El Abrazsador,"Peruvian, Steakhouses",€,5.0,2,"Calle Marqués de Pickman, 78 41005 Seville Spain",+34606876270
+830,La Antigua Abaceria,"Delicatessen, Tapas Bars, Tabernas",€€,4.5,8,"Calle Pureza, 12 41010 Seville Spain",+34807405041
+831,La Doma,Spanish,€€,4.5,7,"Calle Polonia, 2 41012 Seville Spain",+34955641562
+832,Bar Rafa León,Tapas Bars,€€€,4.5,2,"Avenida De La Borbolla, 3 41004 Seville Spain",+34954535529
+833,Dilema Cafe,"Bars, Cafeteria",€,3.5,9,"Alameda de Hércules, 80 41002 Seville Spain",+34955276014
+834,Arte y Sabor,"Tapas Bars, Spanish, Mediterranean",empty,5.0,1,"Calle Peris Mencheta, 42 41002 Seville Spain",+34954372897
+835,La Cata Ciega,Spanish,empty,5.0,4,"Calle Zaragoza, 15 41001 Seville Spain",+34622843374
+836,La Tienda de Carlos,Tapas Bars,€,4.5,2,"Plaza de la Contratación, 5 41004 Seville Spain",+34656948417
+837,Sushiman,Japanese,€,4.0,4,"Calle zaragoza, 5 41001 Seville Spain",+34955228546
+838,Fontecruz Sevilla Seises,"Specialty Food, Andalusian",€€,5.0,1,Calle Segovia 6 41004 Seville Spain,+34954229495
+839,Mara,"Tapas Bars, Seafood, Fish & Chips",€,3.5,12,"Avenida de Llanes, 2 41008 Seville Spain",+34954359286
+840,Akira,"Japanese, Sushi Bars",€€,3.0,5,"Calle Almirantazgo, 8 41001 Seville Spain",+34955284476
+841,The Roof,"Cocktail Bars, Gastropubs, Music Venues",€€,3.0,8,"Calle de Trajano, 15 41002 Seville Spain",+34954915170
+842,Abacería Reinas,Tapas Bars,empty,4.0,3,"Plaza de Regina, s/n 41003 Seville Spain",+34954215499
+843,El Mero,"Mediterranean, Seafood",empty,4.5,4,"Calle Betis, 1 41010 Seville Spain",+34955271161
+844,El Picadero,"Dive Bars, Breakfast & Brunch, Tapas Bars",€,3.0,5,"Calle Arguijo, 6 41010 Seville Spain",+34954270838
+845,Al Natural,"Pizza, Italian",€,4.5,3,"Calle de Justino Matute, 12 41010 Seville Spain",+34954002291
+846,El Gordito,Sandwiches,empty,5.0,1,"Calle García de Vinuesa, 31 41001 Seville Spain",+34955887780
+847,Mariano Camacho,"Spanish, Tapas Bars",€,3.5,7,"Plaza del Pumarejo, 3 41003 Seville Spain",+34954371027
+848,Heladería Rosso,"Creperies, Breakfast & Brunch",€,4.0,4,"Avenida Miraflores, 72 41008 Seville Spain",+34954063781
+849,Alambique,Spanish,€€,4.0,2,"Plaza de la Alfalfa, 25 41004 Seville Spain",
+850,Vinacle,Mediterranean,empty,3.5,4,"Avenida de Kansas City, 1 41018 Seville Spain",+34954577897
+851,Senza,"Cocktail Bars, Italian",empty,5.0,1,"Calle San Pablo, 31 41001 Seville Spain",+34955743842
+852,Tavera Real,"Tapas/Small Plates, Mediterranean",€,4.0,2,"Calle Bustos Tavera, 6 41003 Seville Spain",+34955266547
+853,Alementari,Italian,empty,4.0,1,"Calle Bartolomé de Medina, 21 41004 Seville Spain",+34955722260
+854,Hermanos Gomez Jardines,Spanish,empty,5.0,1,"Avenida de José Laguillo, 20 41003 Seville Spain",+34954218874
+855,D'Oro,"Spanish, Tapas Bars",€,2.0,14,"Calle Adriano, 17 41001 Seville Spain",+34656851110
+856,Taberna Del Almirante,Tabernas,empty,5.0,2,"Calle Huelva, 22 41004 Seville Spain",+34665648186
+857,El Tío del Saco,Tapas Bars,€€,3.5,7,"Calle Trajano, 43 41002 Seville Spain",+34664045941
+858,Texas,Mexican,€,4.0,8,"Calle General Luis Alarcón de la Lastra, 12 41006 Seville Spain",+34954922061
+859,Las Macetas de Triana,Spanish,€,3.5,15,"Calle López de Gomara, 33 41010 Seville Spain",+34954280745
+860,Cervecería Puerta la Carne,Tapas Bars,empty,3.5,4,"Avenida de Menéndez Pelayo, 5 41003 Seville Spain",+34954418371
+861,Café Bar Perea,"Churros, Coffee & Tea, Tapas Bars",€,4.0,2,"Calle Federico Sánchez Bedoya, 8 41001 Seville Spain",
+862,Zaguán,Tapas/Small Plates,€€,4.5,4,"Calle San Jacinto, 51 41010 Seville Spain",
+863,Lamasacre,"Mexican, Bars",empty,3.0,8,"Calle Betis, 29 41010 Seville Spain",+34629431442
+864,El Fogón de Sergio,"Seafood, Cafeteria, Tapas Bars",€,4.5,3,"Avenida de las Ciencias, 12 41020 Seville Spain",+34954404026
+865,Nickel,Burgers,empty,5.0,1,"Alameda de Hércules, 5 41002 Seville Spain",+34955220856
+866,Zalata,"Mediterranean, Andalusian, Gastropubs",empty,3.0,4,"Calle Doña María Coronel, 17 41003 Seville Spain",+34854550358
+867,Taberna del Góngora,"Breakfast & Brunch, Spanish",€,2.5,6,"Calle General Polavieja, 15-17 41001 Seville Spain",+34954219112
+868,Antigua Abacería de San Lorenzo,"Tapas Bars, Cheese Shops",€€,4.0,1,"Calle Fuente Obejuna, 7 41005 Seville Spain",
+869,La Gorda de Calatrava,"Spanish, Tapas Bars",€,3.5,7,"Calle Calatrava, 22 41002 Seville Spain",+34685144849
+870,Jaque Mate,Tapas Bars,€,3.5,6,"Avenida Eduardo Dato, 69 41005 Seville Spain",
+871,Amanecer,Mexican,€€,3.5,10,"Calle Asunción, 76 41011 Seville Spain",+34954451600
+872,La Perlita de la Magdalena,Coffee & Tea,empty,4.5,3,"Calle Bailén, 1 41001 Seville Spain",
+873,Pizzería María,"Pizza, Italian",€,4.5,12,"Calle Campo de la Verdad, 3 41020 Seville Spain",+34954404608
+874,La Centuria,Tapas Bars,€,3.0,7,"Plaza de la Encarnación, 8 41003 Seville Spain",
+875,El Rocío,"Tapas/Small Plates, Tapas Bars",empty,4.0,2,"Avenida de El Greco, 12 41007 Seville Spain",+34954574677
+876,Nou Port,"Dim Sum, Asian Fusion, Sushi Bars",€€,3.0,15,"Avenida de Luis de Morales, s/n 41005 Seville Spain",
+877,El Patio de la Buhaira,Tapas Bars,€,3.5,7,"Calle Camilo José Cela, 3 41018 Seville Spain",+34954932039
+878,Entre Cárceles,Tapas Bars,€€,3.5,3,"Calle Faisanes, 1 41004 Seville Spain",
+879,La Casapuerta,"Mediterranean, Tapas Bars",empty,5.0,1,"Calle San Roque, 13 41001 Seville Spain",+34689740071
+880,Abaceria del Postigo,Tapas Bars,empty,4.5,2,"Calle Tomás de Ibarra, 4 41001 Seville Spain",+34654431995
+881,San Juan de la Palma,Tapas Bars,€,3.5,3,"Calle Viriato, 1 41003 Seville Spain",+34954223534
+882,Bodega Norte Andaluza,"Spanish, Wine Bars",€,3.5,9,"Plaza de la Alameda de Hércules, 41 41002 Seville Spain",+34954389218
+883,Torre del Oro,"Spanish, Wine Bars",empty,4.5,4,"Calle Santander, 15 41001 Seville Spain",+34954224985
+884,La Unión,"Tapas Bars, Breakfast & Brunch",€,3.5,3,"Plaza de la Encarnación, 34 41003 Seville Spain",+34954212570
+885,Gran Muralla,Dim Sum,€,3.0,5,"Calle Muñoz León, 9 41009 Seville Spain",+34954902955
+886,Mentiroso,"Cafeteria, Cocktail Bars",€,4.0,2,"Plaza de la Encarnación, 29 41003 Seville Spain",+34607250937
+887,Bámbola,"Pubs, Cafeteria",€,3.5,5,"Alameda de Hercules, 15 41002 Seville Spain",
+888,Paradas 7,"Breakfast & Brunch, Juice Bars & Smoothies",empty,4.5,3,"Calle Marqués de Paradas, 7 41001 Seville Spain",+34954019757
+889,Los Paerones,Tapas Bars,€,4.0,1,Calle Gonzalo de Bilbao 41003 Seville Spain,
+890,Bocasú Dulce Picoteo,"Desserts, Cafeteria",empty,5.0,3,"Mercado de Triana Plaza del Altozano, s/n 41010 Seville Spain",+34954623151
+891,El cocinero Feliz,Chinese,€,5.0,1,"Plaza Calderón de la Barca, 3 41003 Seville Spain",+34655076311
+892,Lizarran,Tapas Bars,€,3.0,8,"Calle Javier lasso de la Vega, 14 41002 Sevilla Spain",
+893,Arte & Solera,"Breakfast & Brunch, Tapas Bars",€€,4.0,8,"Calle del Concejal Alberto Jiménez Becerril, 11 41009 Seville Spain",+34657231603
+894,Harold,"Bars, Cafeteria",€,5.0,1,"Calle Esperanza de Triana, 16 41010 Seville Spain",+34633085381
+895,La Bodega de Mi Viña,"Dive Bars, Tapas Bars",€,4.0,6,"Calle Aracena, 3 41010 Seville Spain",+34954331034
+896,Cafetería del Rectorado,Tapas Bars,€,3.5,4,"Calle San Fernando, S/N 41004 Seville Spain",
+897,Cafetería Marbella,Spanish,€,3.5,14,"Avenida de Ramón y Cajal, 2 41008 Seville Spain",+34954692453
+898,Los Venerables,"Andalusian, Tapas Bars",empty,4.0,1,"Calle Jamerdana, 9 41004 Seville Spain",+34955326175
+899,La Tostaíta Veloz,"Breakfast & Brunch, Coffee & Tea",€,3.5,7,"Calle Correduría, 50 Esquina Calle Feria 4100 Seville Spain",
+900,Postigo 10,Spanish,€€,2.0,16,"Calle Almirantazgo, 10 41001 Seville Spain",+34620521800
+901,El Rey de la Cerveza,"Seafood, Tapas Bars",€,4.0,10,"Ronda de Pío XII, 1 41008 Seville Spain",+34954362232
+902,Pasa Plato,"Mediterranean, Andalusian, Tapas Bars",empty,4.5,2,"Calle de Monte Tabor, 9 41007 Seville Spain",+34619116766
+903,La Parada,"Bars, Cafeteria",€,4.0,4,"Calle Arenal, 2 41001 Seville Spain",
+904,Casa Diego,Tapas Bars,€€,3.0,8,"Plaza de la Alfalfa, 8 41004 Seville Spain",+34954213105
+905,Tapaolé,Tapas Bars,empty,5.0,1,"C.C Nervión Plaza Calle Luis de Morales , 3 41005 Seville Spain",
+906,Spala II,"Tapas Bars, Spanish",€€,2.0,8,"Plaza de la Encarnación, 24 41003 Seville Spain",+34954222091
+907,"Mesón Jamón Real, La despensa de Extremadura en Sevilla.","Spanish, Tapas Bars",€€,4.0,1,"Calle Pastor y Landero, 20-22 41001 Seville Spain",+34954563998
+908,Bodega San Rafael,Tabernas,€,4.0,21,Rotonda La Pañoleta 41900 Camas Spain,
+909,El Caminante Andaluz,Mediterranean,€€,3.5,15,"Calle de José Diaz, 8 41009 Seville Spain",+34646315316
+910,The Bitters Bar,"Pubs, Cocktail Bars, Tapas Bars",€€,4.5,3,"Avenida San Francisco Javier, 9 41018 Seville Spain",+34955181761
+911,Toby,"Burgers, Pizza, Salad",empty,5.0,1,"Calle Almirante Lobo, 2 41001 Seville Spain",
+912,El Atún,"Tapas/Small Plates, Spanish",€,3.0,6,"Calle Joaquín Guichot, 5 41001 Seville Spain",+34954564658
+913,Taberna  La niña de Enrique,"Tabernas, Tapas Bars, Spanish",€,4.5,4,"Calle Tharsis, 2 41008 Seville Spain",+34617257040
+914,La Jolla By 1906,Gastropubs,empty,5.0,1,"Calle Dos de Mayo, 10 41001 Seville Spain",+34687161205
+915,Manolo Vázquez,Spanish,€€,4.5,2,"Calle Baltasar Gracián, 5 41007 Seville Spain",+34954572146
+916,Papasá,Spanish,€,4.0,12,"Calle López de Gomara, 17 41010 Seville Spain",+34954335777
+917,Como en Italia,"Pizza, Italian",€,4.0,14,"Calle Telegrafistas, 22 41015 Seville Spain",+34954060127
+918,Citroen,Cafeteria,empty,4.5,2,"Avenida Portugal, s/n 41013 Seville Spain",+34954233751
+919,Langayo,"Spanish, Bars",empty,5.0,1,"Calle Arroyo, 1 41008 Seville Spain",+34954419253
+920,La Choza de Manuela,"Spanish, Steakhouses",€,3.5,46,"Carretera Bormujos-Bollullos, Km.6 41930 Bormujos Spain",+34955726092
+921,Los Niños del Flor,"Dive Bars, Spanish, Tapas Bars",€€,4.0,4,"Calle Teniente Borges, 8 41002 Seville Spain",+34954561285
+922,F5,"Fast Food, Pubs, Coffee & Tea",€€,3.5,6,"Paseo de Cristóbal Colón, 7 41001 Seville Spain",+34954219304
+923,La Cruz,Tapas Bars,empty,4.0,6,"Calle Farmacéutico Murillo Herrera, 1 41010 Seville Spain",+34954276937
+924,La Terraza,Tapas Bars,€€,4.0,6,"Calle Calatrava, 12 41002 Seville Spain",+34691320898
+925,El Turco,"Turkish, Kebab",empty,4.0,5,"Avenida Ramón y Cajal, 2 41018 Seville Spain",+34954092006
+926,La Cuba,Gastropubs,€€,4.0,3,"Calle San Luis, 1 41003 Seville Spain",
+927,La Tradicional,Tapas Bars,€€,4.0,10,"Calle del Alberche, s/n 41005 Seville Spain",+34954646653
+928,Isolde Café,"Cafeteria, Food Delivery Services",€,4.0,3,"Calle Cardenal Bueno Monreal, 18 41013 Seville Spain",+34954611661
+929,La Calle,"Salad, Burgers",empty,5.0,1,"Feria, 115 41400 Seville Spain",+34954918345
+930,Gonzalo,"Spanish, Tapas Bars",€,2.5,9,"Calle Alemanes, 21 41004 Seville Spain",+34954223595
+931,Casa Martín,Tapas Bars,€,4.0,6,"Calle de Castilla, 172 41010 Seville Spain",+34954333068
+932,Le Petit Café,"Desserts, Cafeteria",€,4.5,2,"Plaza de la Magdalena, 9 41001 Seville Spain",+34955269721
+933,Sanbers,Spanish,€€,3.5,16,"Avenida de Alemania, 9 41012 Seville Spain",+34955641547
+934,El Bacalao,"Spanish, Tapas Bars, Mediterranean",€€€,3.0,5,"Calle Tarifa, 9 41002 Seville Spain",+34954224320
+935,Kiosco La Melva,Tapas Bars,empty,4.5,7,"Cardenal Ilundáin, s/n 41013 Seville Spain",
+936,Sala El Cachorro,"Performing Arts, Breakfast & Brunch, Vegetarian",€,4.0,13,"Calle Procurador, 19 41010 Seville Spain",+34954339747
+937,Las Bambalina,"Tapas Bars, Spanish, Mediterranean",€€,4.0,8,"Calle Las Fuentezuelas, 4 41003 Seville Spain",+34954406086
+938,Karpanta,"Burgers, Tapas Bars",€€,3.0,2,"C.C Setas Encarnación Plaza de la Encarnación, 14 41003 Seville Spain",+34954902310
+939,Pista 01,Tapas Bars,€€,4.5,4,"Avenida Ramón de Carranza, 26 41011 Seville Spain",+34954270024
+940,Azafrán,Spanish,empty,4.0,2,"Calle San Pablo, 27 41001 Seville Spain",+34954395948
+941,Azafran Tapas,Tapas Bars,€,4.0,2,"Carrer de Ciudad de Ronda, 3 41004 Seville Spain",+34902091466
+942,Guadiana,Spanish,empty,4.0,3,"Calle Guadiana, 29 41002 Seville Spain",+34954381936
+943,Rincón de Fali,"Food Delivery Services, Tapas Bars",€,4.0,4,"Avenida de Llanes, 4 41008 Seville Spain",+34609336310
+944,La Entrañable,Tapas Bars,€,4.0,6,"Calle Callao, 5 41010 Seville Spain",+34954338368
+945,Sargento Peppers,"Burgers, Pizza",€,4.0,10,"Calle Fernando IV, 34 41011 Seville Spain",+34954451486
+946,Mesón Los Alcores,"Spanish, Tapas Bars",€€,4.5,2,"Calle Farmacéutico Murillo Herrera, 10 41010 Seville Spain",+34954270661
+947,Doctor Bar,"Pubs, Tapas Bars",€,3.5,6,"Calle Feria, 94 41002 Seville Spain",
+948,Kiosco Abilio,Tapas Bars,empty,5.0,4,"Avenida de Don Pelayo,  s/n 41013 Seville Spain",+34686237501
+949,El Rincón de Colino,"Cafeteria, Breakfast & Brunch, Tapas Bars",€,4.0,2,"Calle Santa Paula, s/n 41003 Seville Spain",
+950,Ñam Ñam,Sandwiches,€,4.0,9,"Avenida de la Reina Mercedes, 31 41012 Seville Spain",+34697190794
+951,Cinco Jotas,Tapas Bars,empty,4.0,1,"Calle Albareda, 15 41001 Seville Spain",+34954210521
+952,La Notaria,"Spanish, Tapas Bars, Beer Bar",€,4.0,4,"Carretera de Carmona, 30 41008 Seville Spain",
+953,El Pollo Loco,Steakhouses,€€,4.5,7,"Calle Esperanza de Triana, 6 41010 Seville Spain",+34954343302
+954,Kebab Torneo,"Mediterranean, Arabic",€,4.5,3,"Avenida Concejal Alberto Jimenez Becerril, 5 41009 Seville Spain",+34954902947
+955,La Paraita,Tapas Bars,€,4.0,4,"Plaza el Juncal, 4 41005 Seville Spain",+34954705101
+956,Mingthao,"Chinese, Sushi Bars",€,3.5,6,"Calle Salado, 4 41010 Seville Spain",+34954458046
+957,La Parrilla del Badulaque,Spanish,€€,3.5,6,"Alameda de Hércules, 33 41002 Seville Spain",+34954915524
+958,El Picadero,"Breakfast & Brunch, Tapas Bars",€,3.0,9,"Calle Almansa, 14 41001 Seville Spain",+34954216350
+959,Bar Citroen,Tapas Bars,€,3.0,8,Avenida Portugal 1 Sevilla Spain,
+960,De la O,Andalusian,empty,5.0,3,"Paseo Nuestra Señora de la O, 29 41010 Seville Spain",+34954339000
+961,Repetto,Mediterranean,empty,3.5,6,"Calle San Pablo, 29 41001 Seville Spain",+34954323008
+962,Taberna Cordero,"Diners, Tabernas, Tapas Bars",empty,4.5,5,"Avenida del Concejal Alberto Jiménez Becerril, s/n 41009 Seville Spain",+34954907951
+963,Nueva Taberna La Carrucha,"Tapas Bars, Tabernas",€,4.0,5,"Calle Constancia, 21 41010 Seville Spain",+34625819934
+964,Amici Miei,"Pizza, Italian",€,4.0,2,"Calle Benito Mas y Prat, 2 41005 Seville Spain",
+965,Zurbarán,"Tapas Bars, Dive Bars",€,3.0,8,"Plaza Zurbarán, 1 41003 Seville Spain",+34954229634
+966,Da Vinci,Tapas Bars,€,4.0,5,"Avenida de Leonardo da Vinci, 10 41092 Seville Spain",+34605806808
+967,El Rincón Gallego del Pulpo,Tapas Bars,€€,3.5,7,"Calle Harinas, 21 41001 Seville Spain",+34954224311
+968,La Atarazana,"Spanish, Tapas Bars",€,4.5,4,"Calle de la Constancia, 7 41010 Seville Spain",+34954275516
+969,La Abundancia,"Dive Bars, Spanish, Tapas Bars",€,4.0,1,"Calle Pinto, 1-3 41003 Seville Spain",+34954214117
+970,El Rincon del Jartible,Tapas Bars,€,4.5,3,"Calle Ulia, 9 41005 Seville Spain",+34650498870
+971,Gran China,Dim Sum,€€,3.5,9,"Avenida de Miraflores, 72 41008 Seville Spain",+34954354325
+972,La Alacena,Tapas Bars,€€,4.0,2,"Calle Aguilas, 6 41004 Seville Spain",+34954216549
+973,Parpatana,Tapas Bars,empty,5.0,1,"Plaza Sacrificio, 1 41018 Seville Spain",+34955186745
+974,Casa del Dolma,Turkish,empty,4.0,1,"Calle Troya, 4 41010 Seville Spain",+34954036267
+975,Foster's Hollywood,"Burgers, American (Traditional)",€€,4.0,8,"Avenida de los Descubrimientos, s/n Local A-10 41927 Mairena de Aljarafe Spain",+34955602012
+976,Al Zagal,Spanish,empty,4.0,2,"Avenida de la Buhaira, 24 41018 Seville Spain",+34954549500
+977,Patio San Eloy,"Spanish, Tapas Bars",€,2.5,4,"Calle San Fernando, 27 41004 Seville Spain",+34954501070
+978,Kiosko de Los Leones,Tapas Bars,€€,3.0,10,"Alameda de Hércules, s/n 41002 Seville Spain",+34666308968
+979,Gabbana,"Cafeteria, Cocktail Bars",€€,3.5,3,"Avenida de la Buhaira, 8 41016 Seville Spain",
+980,Zero Tapas,"Tapas Bars, Gastropubs, Mediterranean",€€,4.0,2,"Calle Calatrava, 34 41002 Seville Spain",+34955440030
+981,Café & Tapas,"Mediterranean, Tapas Bars, Coffee & Tea",empty,1.0,8,"Calle Albareda, 8 41001 Seville Spain",
+982,Barceló,Restaurants,empty,4.0,1,"Calle Gerona, 33 41003 Seville Spain",+34954223263
+983,Bar Regio,"Dive Bars, Tapas Bars",€,5.0,1,"Calle Barcelona, 2 41001 Seville Spain",
+984,El Papelón,"Tapas Bars, Spanish",€,3.5,4,"Calle Amador de los Rios, 35 41003 Seville Spain",+34955260542
+985,Amaranto,Gastropubs,€,3.5,2,"Calle Carlos Cañal, 3 41001 Seville Spain",+34954225390
+986,Bodega Amarillo Albero,"Tapas Bars, Diners",empty,5.0,1,"Plaza de la Gavidia, 5 41002 Seville Spain",+34954219085
+987,Mesón Pino Montano,"Spanish, Breakfast & Brunch",€,4.0,8,"Calle Estrella Betelgueuse, 2 41015 Seville Spain",+34954961111
+988,Shoarma,Middle Eastern,€,4.0,7,"Calle Salado, 6 41010 Seville Spain",+34657216040
+989,Cachito,Tapas Bars,€,4.0,1,"Juan de Mata Carriazo, 2 41018 Seville Spain",+34954411512
+990,La Primera,"Cafeteria, Breakfast & Brunch, Tapas Bars",€,4.0,2,"Calle Arroyo, 105 41008 Seville Spain",
+991,La Piccolina,"Pizza, Italian",€,3.5,8,"Calle Peris Mencheta, 22 41002 Seville Spain",+34954906958
+992,El Asador la Burra,Steakhouses,€,4.5,3,"Poligono Industrial Calonge Calle Estaño, 20 41007 Seville Spain",+34954368887
+993,El Patio de San Eloy,"Spanish, Tabernas",€,3.0,4,"Calle Mateos Gago, 4 41004 Seville Spain",+34954501070
+994,Arte y Solera,"Mediterranean, Signature Cuisine",empty,5.0,1,"Calle Zaragoza, 64 41001 Seville Spain",+34657231603
+995,Goiko Grill,Burgers,€€,3.5,5,"Avenida de la República Argentina, 26 41011 Seville Spain",+34955286140
+996,Sur,Tapas Bars,€€,4.0,4,"Plaza de la Encarnacion, s/n 41004 Seville Spain",
+997,Taberna Azalea II,"Tapas Bars, Spanish",empty,4.0,2,"Calle de José Laguillo, 27 41003 Seville Spain",+34954418059
+998,La Maceta,"Tapas Bars, Beer Bar",€€,3.5,8,"Calle Virgen de Loreto, 19 41011 Seville Spain",+34954283565
+999,La Cochera del Abuelo,Mediterranean,empty,4.5,3,"Álvaro de Bazán, 2 41002 Seville Spain",+34664440636
+1000,Q'tapeo!,"Cafeteria, Tapas Bars, Cocktail Bars",empty,5.0,1,"Calle Javier Lasso de la Vega, 9 41002 Seville Spain",+34656821019
